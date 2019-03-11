@@ -152,17 +152,33 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Pruning】[“Learning-Compression” Algorithms for Neural Net Pruning](http://faculty.ucmerced.edu/mcarreira-perpinan/papers/cvpr18.pdf). 2018
 - 【Pruning】[AMC: AutoML for model compression and acceleration on mobile devices](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf). 2018
 - 【Structure】Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen .[MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381) .[J] arXiv preprint arXiv:1801.04381
+- Jialiang Guo, Bo Zhou, Xiangrui Zeng, Zachary Freyberg, Min Xu .[Model compression for faster structural separation of macromolecules  captured by Cellular Electron Cryo-Tomography](https://arxiv.org/pdf/1801.10597) .[J] arXiv preprint arXiv:1801.10597.
 - [Faster Gaze Prediction With Dense Networks and Fisher Pruning](https://arxiv.org/abs/1801.05787) .[J] arXiv preprint arXiv:1801.05787
 - 【Pruning】[Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers](https://arxiv.org/pdf/1802.00124) .[J] arXiv preprint arXiv:1802.00124
-- 【Quantization】[Training and Inference with Integers in Deep Neural Networks](https://arxiv.org/pdf/1802.04680) .[J] arXiv preprint arXiv:1802.04680
 - 【Survey】Jian Cheng, Peisong Wang, Gang Li, Qinghao Hu, Hanqing Lu .[Recent Advances in Efficient Computation of Deep Convolutional Neural  Networks](https://arxiv.org/pdf/1802.00939) .[J] arXiv preprint arXiv:1802.00939
 - 【Quantization】Yukun Ding, Jinglan Liu, Yiyu Shi .[On the Universal Approximability of Quantized ReLU Neural Networks](https://arxiv.org/pdf/1802.03646) .[J] arXiv preprint arXiv:1802.03646
-- 【Distillation】[Model compression via distillation and quantization](https://arxiv.org/pdf/1802.05668) .[J] arXiv preprint arXiv:1802.05668
+- 【Quantization】[Training and Inference with Integers in Deep Neural Networks](https://arxiv.org/pdf/1802.04680) .[J] arXiv preprint arXiv:1802.04680
+- Qi Liu, Tao Liu, Zihao Liu, Yanzhi Wang, Yier Jin, Wujie Wen .[Security Analysis and Enhancement of Model Compressed Deep Learning  Systems under Adversarial Attacks](https://arxiv.org/pdf/1802.05193) .[J] arXiv preprint arXiv:1802.05193.
+- 【Distillation】Antonio Polino, Razvan Pascanu, Dan Alistarh .[Model compression via distillation and quantization](https://arxiv.org/pdf/1802.05668) .[J] arXiv preprint arXiv:1802.05668
 - 【Structure】Xingyu Liu, Jeff Pool, Song Han, William J. Dally .[Efficient Sparse-Winograd Convolutional Neural Networks](https://arxiv.org/pdf/1802.06367) .[J] arXiv preprint arXiv:1802.06367
+- Grant P. Strimel, Kanthashree Mysore Sathyendra, Stanislav Peshterliev .[Statistical Model Compression for Small-Footprint Natural Language  Understanding](https://arxiv.org/pdf/1807.07520) .[J] arXiv preprint arXiv:1807.07520.
+- Ini Oguntola, Subby Olubeko, Christopher Sweeney .[SlimNets: An Exploration of Deep Model Compression and Acceleration](https://arxiv.org/pdf/1808.00496) .[J] arXiv preprint arXiv:1808.00496.
 - 【Structure】Huasong Zhong, Xianggen Liu, Yihui He, Yuchun Ma .[Shift-based Primitives for Efficient Convolutional Neural Networks](https://arxiv.org/pdf/1809.08458) .[J] arXiv preprint arXiv:1809.08458
+- Marton Havasi, Robert Peharz, José Miguel Hernández-Lobato .[Minimal Random Code Learning: Getting Bits Back from Compressed Model Parameters](https://arxiv.org/pdf/1810.00440) .[J] arXiv preprint arXiv:1810.00440.
+- Animesh Koratana, Daniel Kang, Peter Bailis, Matei Zaharia .[LIT: Block-wise Intermediate Representation Training for Model Compression](https://arxiv.org/pdf/1810.01937) .[J] arXiv preprint arXiv:1810.01937.
+- Weihao Gao, Chong Wang, Sewoong Oh .[Rate Distortion For Model Compression: From Theory To Practice](https://arxiv.org/pdf/1810.06401) .[J] arXiv preprint arXiv:1810.06401.
+- Qing Qin, Jie Ren, Jialong Yu, Ling Gao, Hai Wang, Jie Zheng, Yansong Feng, Jianbin Fang, Zheng Wang .[To Compress, or Not to Compress: Characterizing Deep Learning Model Compression for Embedded Inference](https://arxiv.org/pdf/1810.08899) .[J] arXiv preprint arXiv:1810.08899.
+- Dongsoo Lee, Parichay Kapoor, Byeongwook Kim .[DeepTwist: Learning Model Compression via Occasional Weight Distortion](https://arxiv.org/pdf/1810.12823) .[J] arXiv preprint arXiv:1810.12823.
+- Raden Mu'az Mun'im, Nakamasa Inoue, Koichi Shinoda .[Sequence-Level Knowledge Distillation for Model Compression of Attention-based Sequence-to-Sequence Speech Recognition](https://arxiv.org/pdf/1811.04531) .[J] arXiv preprint arXiv:1811.04531.
+- Ji Wang, Weidong Bao, Lichao Sun, Xiaomin Zhu, Bokai Cao, Philip S. Yu .[Private Model Compression via Knowledge Distillation](https://arxiv.org/pdf/1811.05072) .[J] arXiv preprint arXiv:1811.05072.
 - 【Pruning】aditya Prakash, James Storer, Dinei Florencio, Cha Zhang .[RePr: Improved Training of Convolutional Filters](https://arxiv.org/pdf/1811.07275) .[J] arXiv preprint arXiv:1811.07275
-
+- Pravendra Singh, Vinay Kumar Verma, Piyush Rai, Vinay P. Namboodiri .[Leveraging Filter Correlations for Deep Model Compression](https://arxiv.org/pdf/1811.10559) .[J] arXiv preprint arXiv:1811.10559.
+- Haichuan Yang, Yuhao Zhu, Ji Liu .[ECC: Energy-Constrained Deep Neural Network Compression via a Bilinear Regression Model](https://arxiv.org/pdf/1812.01803) .[J] arXiv preprint arXiv:1812.01803.
+- Haipeng Jia, Xueshuang Xiang, Da Fan, Meiyu Huang, Changhao Sun, Qingliang Meng, Yang He, Chen Chen .[DropPruning for Model Compression](https://arxiv.org/pdf/1812.02035) .[J] arXiv preprint arXiv:1812.02035.
+- Ruishan Liu, Nicolo Fusi, Lester Mackey .[Model Compression with Generative Adversarial Networks](https://arxiv.org/pdf/1812.02271) .[J] arXiv preprint arXiv:1812.02271.
 
 ### 2019
-
+- Debarghya China, Francis Tom, Sumanth Nandamuri, Aupendu Kar, Mukundhan Srinivasan, Pabitra Mitra, Debdoot Sheet .[UltraCompression: Framework for High Density Compression of Ultrasound Volumes using Physics Modeling Deep Neural Networks](https://arxiv.org/pdf/1901.05880) .[J] arXiv preprint arXiv:1901.05880.
+- Yuheng Bu, Weihao Gao, Shaofeng Zou, Venugopal V. Veeravalli .[Information-Theoretic Understanding of Population Risk Improvement with Model Compression](https://arxiv.org/pdf/1901.09421) .[J] arXiv preprint arXiv:1901.09421.
+- Valentin Khrulkov, Oleksii Hrinchuk, Leyla Mirvakhabova, Ivan Oseledets .[Tensorized Embedding Layers for Efficient Model Compression](https://arxiv.org/pdf/1901.10787) .[J] arXiv preprint arXiv:1901.10787.
 
