@@ -1,6 +1,12 @@
 # awesome-model-compression
 
-this collecting the papers (main from arxiv.org) about Model compression:**Structure**; **Distillation**; **Binarization**; **Quantization**; **Pruning**; **Low Rank Approximation**.
+this collecting the papers (main from arxiv.org) about Model compression:    
+**Structure**;   
+**Distillation**;   
+**Binarization**;   
+**Quantization**;   
+**Pruning**;   
+**Low Rank Approximation**.
 also, some papers and links collected from below, they are all awesome resources:
 > * [1][sun254/awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
 > * [2][memoiry/Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
@@ -81,16 +87,13 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Quantization】Denis A. Gudovskiy, Luca Rigazio .[ShiftCNN: Generalized Low-Precision Architecture for Inference of  Convolutional Neural Networks](https://arxiv.org/pdf/1706.02393) .[J] arXiv preprint arXiv:1706.02393
 - 【Structure】Zhe Li, Xiaoyu Wang, Xutao Lv, Tianbao Yang .[SEP-Nets: Small and Effective Pattern Networks](https://arxiv.org/pdf/1706.03912) .[J] arXiv preprint arXiv:1706.03912
 - 【Structure】Xiangyu Zhang, Xinyu Zhou, Mengxiao Lin, Jian Sun .[ShuffleNet: An Extremely Efficient Convolutional Neural Network for  Mobile Devices](https://arxiv.org/pdf/1707.01083) .[J] arXiv preprint arXiv:1707.01083
-- 【Overview】Miguel Á. Carreira-Perpiñán .[Model compression as constrained optimization, with application to  neural nets. Part I: general framework](https://arxiv.org/pdf/1707.01209) .[J] arXiv preprint arXiv:1707.01209
 - 【Survey】Miguel Á. Carreira-Perpiñán .[Model compression as constrained optimization, with application to  neural nets. Part I: general framework](https://arxiv.org/pdf/1707.01209) .[J] arXiv preprint arXiv:1707.01209
 - 【Pruning】Zehao Huang, Naiyan Wang .[Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/pdf/1707.01213) .[J] arXiv preprint arXiv:1707.01213
 - 【Distillation】Zehao Huang, Naiyan Wang .[Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/pdf/1707.01219) .[J] arXiv preprint arXiv:1707.01219
 - 【Distillation】Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang .[DarkRank: Accelerating Deep Metric Learning via Cross Sample  Similarities Transfer](https://arxiv.org/pdf/1707.01220) .[J] arXiv preprint arXiv:1707.01220
-- 【Overview】Miguel Á. Carreira-Perpiñán, Yerlan Idelbayev .[Model compression as constrained optimization, with application to  neural nets. Part II: quantization](https://arxiv.org/pdf/1707.04319) .[J] arXiv preprint arXiv:1707.04319
 - 【Survey】Miguel Á. Carreira-Perpiñán, Yerlan Idelbayev .[Model compression as constrained optimization, with application to  neural nets. Part II: quantization](https://arxiv.org/pdf/1707.04319) .[J] arXiv preprint arXiv:1707.04319
 - 【Binarization】Jeng-Hau Lin, Tianwei Xing, Ritchie Zhao, Zhiru Zhang, Mani Srivastava, Zhuowen Tu, Rajesh K. Gupta .[Binarized Convolutional Neural Networks with Separable Filters for  Efficient Hardware Acceleration](https://arxiv.org/pdf/1707.04693) .[J] arXiv preprint arXiv:1707.04693
 - 【Pruning】Yihui He, Xiangyu Zhang, Jian Sun .[Channel Pruning for Accelerating Very Deep Neural Networks](https://arxiv.org/pdf/1707.06168) .[J] arXiv preprint arXiv:1707.06168
-- 【Pruning】Jian-Hao Luo, Jianxin Wu, Weiyao Lin .[ThiNet: A Filter Level Pruning Method for Deep Neural Network  Compression](https://arxiv.org/pdf/1707.06342) .[J] arXiv preprint arXiv:1707.06342
 - 【Structure】Jian-Hao Luo, Jianxin Wu, Weiyao Lin .[ThiNet: A Filter Level Pruning Method for Deep Neural Network  Compression](https://arxiv.org/pdf/1707.06342) .[J] arXiv preprint arXiv:1707.06342
 - 【Structure】Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le .[Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012) .[J] arXiv preprint arXiv:1707.07012
 - 【Pruning】Frederick Tung, Srikanth Muralidharan, Greg Mori .[Fine-Pruning: Joint Fine-Tuning and Compression of a Convolutional  Network with Bayesian Optimization](https://arxiv.org/pdf/1707.09102) .[J] arXiv preprint arXiv:1707.09102
@@ -101,7 +104,6 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Structure】Mohammad Javad Shafiee, Brendan Chywl, Francis Li, Alexander Wong .[Fast YOLO: A Fast You Only Look Once System for Real-time Embedded  Object Detection in Video](https://arxiv.org/pdf/1709.05943) .[J] arXiv preprint arXiv:1709.05943
 - 【Pruning】Michael Zhu, Suyog Gupta .[To prune, or not to prune: exploring the efficacy of pruning for model  compression](https://arxiv.org/pdf/1710.01878) .[J] arXiv preprint arXiv:1710.01878
 - 【Distillation】Raphael Gontijo Lopes, Stefano Fenu, Thad Starner .[Data-Free Knowledge Distillation for Deep Neural Networks](https://arxiv.org/pdf/1710.07535) .[J] arXiv preprint arXiv:1710.07535
-- 【Overview】Yu Cheng, Duo Wang, Pan Zhou, Tao Zhang .[A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/pdf/1710.09282) .[J] arXiv preprint arXiv:1710.09282
 - 【Survey】Yu Cheng, Duo Wang, Pan Zhou, Tao Zhang .[A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/pdf/1710.09282) .[J] arXiv preprint arXiv:1710.09282
 - 【Distillation】Zhi Zhang, Guanghan Ning, Zhihai He .[Knowledge Projection for Deep Neural Networks](https://arxiv.org/pdf/1710.09505) .[J] arXiv preprint arXiv:1710.09505
 - 【Structure】Mohammad Ghasemzadeh, Mohammad Samragh, Farinaz Koushanfar .[ReBNet: Residual Binarized Neural Network](https://arxiv.org/pdf/1711.01243) .[J] arXiv preprint arXiv:1711.01243
