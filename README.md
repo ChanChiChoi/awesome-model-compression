@@ -5,7 +5,6 @@ also, some papers and links collected from below, they are all awesome resources
 > * [1][sun254/awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
 > * [2][memoiry/Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
 > * [3][chester256/Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers)
-> * [jnjaby/Model-Compression-Acceleration](https://github.com/jnjaby/Model-Compression-Acceleration)
 > * [conferences][mapleam/model-compression-and-acceleration-4-DNN](https://github.com/mapleam/model-compression-and-acceleration-4-DNN)
 > * [papers&2years ago][Xreki/ModelCompression](https://github.com/Xreki/ModelCompression/tree/master/papers)
 > * [Ref][clhne/model-compression-and-acceleration](https://github.com/clhne/model-compression-and-acceleration)
@@ -16,6 +15,7 @@ also, some papers and links collected from below, they are all awesome resources
 > * [others&Model Compression][guan-yuan/awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
 > * [resources][handong1587/cnn-compression-acceleration](https://handong1587.github.io/deep_learning/2015/10/09/cnn-compression-acceleration.html)
 > * [tejalal/awesome-deep-model-compression](https://github.com/tejalal/awesome-deep-model-compression)
+> * [jnjaby/Model-Compression-Acceleration](https://github.com/jnjaby/Model-Compression-Acceleration)
 
 ---
 ### 2014
