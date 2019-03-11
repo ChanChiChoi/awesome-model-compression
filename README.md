@@ -13,6 +13,9 @@ also, some papers and links collected from below, they are all awesome resources
 > * [jyhengcoder/Model-Compression](https://github.com/jyhengcoder/Model-Compression)
 > * [QinHaotong/ModelCompression](https://github.com/QinHaotong/ModelCompression)
 > * [Tianyu-Hua/ModelCompression](https://github.com/Tianyu-Hua/ModelCompression)
+> * [guan-yuan/awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
+> * [handong1587/cnn-compression-acceleration](https://handong1587.github.io/deep_learning/2015/10/09/cnn-compression-acceleration.html)
+> * [tejalal/awesome-deep-model-compression](https://github.com/tejalal/awesome-deep-model-compression)
 
 ---
 ### 2017
