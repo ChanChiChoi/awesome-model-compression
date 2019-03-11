@@ -1,6 +1,6 @@
 # awesome-model-compression
 
-this collecting the papers (main from arxiv.org) about Generative Adversarial Networks (GAN)
+this collecting the papers (main from arxiv.org) about Model compression.
 also, some papers and links collected from below, they are all awesome resources:
 > * [1][sun254/awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
 > * [2][memoiry/Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
