@@ -198,3 +198,10 @@ also, some papers and links collected from below, they are all awesome resources
 - Yuheng Bu, Weihao Gao, Shaofeng Zou, Venugopal V. Veeravalli .[Information-Theoretic Understanding of Population Risk Improvement with Model Compression](https://arxiv.org/pdf/1901.09421) .[J] arXiv preprint arXiv:1901.09421.
 - Valentin Khrulkov, Oleksii Hrinchuk, Leyla Mirvakhabova, Ivan Oseledets .[Tensorized Embedding Layers for Efficient Model Compression](https://arxiv.org/pdf/1901.10787) .[J] arXiv preprint arXiv:1901.10787.
 
+---
+### Projects
+
+- [NAF-tensorflow](https://github.com/carpedm20/NAF-tensorflow)     
+- [TensoRT4-Example](https://github.com/YunYang1994/TensoRT4-Example)      
+- [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt)       
+- **[PocketFlow](https://github.com/Tencent/PocketFlow) **
