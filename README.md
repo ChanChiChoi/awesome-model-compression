@@ -156,7 +156,7 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Distillation】Zhi Zhang, Guanghan Ning, Zhihai He .[Knowledge Projection for Deep Neural Networks](https://arxiv.org/pdf/1710.09505) .[J] arXiv preprint arXiv:1710.09505
 - 【Structure】Mohammad Ghasemzadeh, Mohammad Samragh, Farinaz Koushanfar .[ReBNet: Residual Binarized Neural Network](https://arxiv.org/pdf/1711.01243) .[J] arXiv preprint arXiv:1711.01243
 - 【Distillation】Elliot J. Crowley, Gavin Gray, Amos Storkey .[Moonshine: Distilling with Cheap Convolutions](https://arxiv.org/pdf/1711.02613) .[J] arXiv preprint arXiv:1711.02613
-- 【Distillation】[Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy](https://arxiv.org/pdf/1711.05852)
+- 【Distillation】Mishra A, Marr D. [Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy](https://arxiv.org/pdf/1711.05852)[J]. arXiv preprint arXiv:1711.05852, 2017.
 - 【Pruning】Ruichi Yu, Ang Li, Chun-Fu Chen, Jui-Hsin Lai, Vlad I. Morariu, Xintong Han, Mingfei Gao, Ching-Yung Lin, Larry S. Davis .[NISP: Pruning Networks using Neuron Importance Score Propagation](https://arxiv.org/pdf/1711.05908) .[J] arXiv preprint arXiv:1711.05908
 - 【Pruning】iel Gordon, Elad Eban, Ofir Nachum, Bo Chen, Tien-Ju Yang, Edward Choi .[MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep  Networks](https://arxiv.org/pdf/1711.06798) .[J] arXiv preprint arXiv:1711.06798
 - 【System】Stylianos I. Venieris, Christos-Savvas Bouganis .[fpgaConvNet: A Toolflow for Mapping Diverse Convolutional Neural  Networks on Embedded FPGAs](https://arxiv.org/pdf/1711.08740) .[J] arXiv preprint arXiv:1711.08740
