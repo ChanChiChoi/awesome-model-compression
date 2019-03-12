@@ -113,10 +113,10 @@ also, some papers and links collected from below, they are all awesome resources
 ### 2017
 - 【Distillation】Yim J, Joo D, Bae J, et al. [A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learnin](https://pdfs.semanticscholar.org/0410/659b6a311b281d10e0e44abce9b1c06be462.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 4133-4141.
 - 【Distillation】Chen G, Choi W, Yu X, et al. [Learning Efficient Object Detection Models with Knowledge Distillation](http://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf)[C]//Advances in Neural Information Processing Systems. 2017: 742-751.
-- 【Miscellaneous】[Beyond Filters: Compact Feature Map for Portable Deep Model](http://proceedings.mlr.press/v70/wang17m/wang17m.pdf)
-- 【Miscellaneous】[SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf)
-- 【Pruning】[Channel pruning for accelerating very deep neural networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Channel_Pruning_for_ICCV_2017_paper.pdf)
-- 【Pruning】[Learning to Prune: Exploring the Frontier of Fast and Accurate Parsing](http://www.cs.jhu.edu/~jason/papers/vieira+eisner.tacl17.pdf)
+- 【Miscellaneous】Wang Y, Xu C, Xu C, et al. [Beyond Filters: Compact Feature Map for Portable Deep Model](http://proceedings.mlr.press/v70/wang17m/wang17m.pdf)[C]//Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017: 3703-3711.
+- 【Miscellaneous】Kim J, Park Y, Kim G, et al. [SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf)[C]//Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017: 1866-1874.
+- 【Pruning】He Y, Zhang X, Sun J. [Channel pruning for accelerating very deep neural networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Channel_Pruning_for_ICCV_2017_paper.pdf)[C]//Proceedings of the IEEE International Conference on Computer Vision. 2017: 1389-1397.
+- 【Pruning】Vieira T, Eisner J. [Learning to Prune: Exploring the Frontier of Fast and Accurate Parsing](http://www.cs.jhu.edu/~jason/papers/vieira+eisner.tacl17.pdf)[J]. Transactions of the Association for Computational Linguistics, 2017, 5: 263-278.
 - 【Pruning】[Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism](http://www-personal.umich.edu/~jiecaoyu/papers/jiecaoyu-isca17.pdf)
 - 【System】[DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware](http://fahim-kawsar.net/papers/Mathur.MobiSys2017-Camera.pdf)
 - 【System】[DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications](https://www.sigmobile.org/mobisys/2017/accepted.php)
