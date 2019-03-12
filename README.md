@@ -171,10 +171,10 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Structure】Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen .[MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381) .[J] arXiv preprint arXiv:1801.04381
 - Jialiang Guo, Bo Zhou, Xiangrui Zeng, Zachary Freyberg, Min Xu .[Model compression for faster structural separation of macromolecules  captured by Cellular Electron Cryo-Tomography](https://arxiv.org/pdf/1801.10597) .[J] arXiv preprint arXiv:1801.10597.
 - Theis, Lucas, et al .[Faster Gaze Prediction With Dense Networks and Fisher Pruning](https://arxiv.org/abs/1801.05787) .[J] arXiv preprint arXiv:1801.05787
-- 【Pruning】[Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers](https://arxiv.org/pdf/1802.00124) .[J] arXiv preprint arXiv:1802.00124
+- 【Pruning】Ye J, Lu X, Lin Z, et al. [Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers](https://arxiv.org/pdf/1802.00124) .[J] arXiv preprint arXiv:1802.00124
 - 【Survey】Jian Cheng, Peisong Wang, Gang Li, Qinghao Hu, Hanqing Lu .[Recent Advances in Efficient Computation of Deep Convolutional Neural  Networks](https://arxiv.org/pdf/1802.00939) .[J] arXiv preprint arXiv:1802.00939
 - 【Quantization】Yukun Ding, Jinglan Liu, Yiyu Shi .[On the Universal Approximability of Quantized ReLU Neural Networks](https://arxiv.org/pdf/1802.03646) .[J] arXiv preprint arXiv:1802.03646
-- 【Quantization】[Training and Inference with Integers in Deep Neural Networks](https://arxiv.org/pdf/1802.04680) .[J] arXiv preprint arXiv:1802.04680
+- 【Quantization】Wu S, Li G, Chen F, et al.[Training and Inference with Integers in Deep Neural Networks](https://arxiv.org/pdf/1802.04680) .[J] arXiv preprint arXiv:1802.04680
 - Qi Liu, Tao Liu, Zihao Liu, Yanzhi Wang, Yier Jin, Wujie Wen .[Security Analysis and Enhancement of Model Compressed Deep Learning  Systems under Adversarial Attacks](https://arxiv.org/pdf/1802.05193) .[J] arXiv preprint arXiv:1802.05193.
 - 【Distillation】Antonio Polino, Razvan Pascanu, Dan Alistarh .[Model compression via distillation and quantization](https://arxiv.org/pdf/1802.05668) .[J] arXiv preprint arXiv:1802.05668
 - 【Structure】Xingyu Liu, Jeff Pool, Song Han, William J. Dally .[Efficient Sparse-Winograd Convolutional Neural Networks](https://arxiv.org/pdf/1802.06367) .[J] arXiv preprint arXiv:1802.06367
