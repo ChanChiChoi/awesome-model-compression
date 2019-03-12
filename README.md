@@ -195,7 +195,6 @@ also, some papers and links collected from below, they are all awesome resources
 - Ruishan Liu, Nicolo Fusi, Lester Mackey .[Model Compression with Generative Adversarial Networks](https://arxiv.org/pdf/1812.02271) .[J] arXiv preprint arXiv:1812.02271.
 
 ### 2019
-- Debarghya China, Francis Tom, Sumanth Nandamuri, Aupendu Kar, Mukundhan Srinivasan, Pabitra Mitra, Debdoot Sheet .[UltraCompression: Framework for High Density Compression of Ultrasound Volumes using Physics Modeling Deep Neural Networks](https://arxiv.org/pdf/1901.05880) .[J] arXiv preprint arXiv:1901.05880.
 - Yuheng Bu, Weihao Gao, Shaofeng Zou, Venugopal V. Veeravalli .[Information-Theoretic Understanding of Population Risk Improvement with Model Compression](https://arxiv.org/pdf/1901.09421) .[J] arXiv preprint arXiv:1901.09421.
 - Valentin Khrulkov, Oleksii Hrinchuk, Leyla Mirvakhabova, Ivan Oseledets .[Tensorized Embedding Layers for Efficient Model Compression](https://arxiv.org/pdf/1901.10787) .[J] arXiv preprint arXiv:1901.10787.
 
