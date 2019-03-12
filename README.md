@@ -30,7 +30,7 @@ also, some papers and links collected from below, they are all awesome resources
 
 ### 1993
 - Hassibi, Babak, and David G. Stork. [Second order derivatives for network pruning: Optimal brain surgeon](http://papers.nips.cc/paper/647-second-order-derivatives-for-network-pruning-optimal-brain-surgeon.pdf) .[C]Advances in neural information processing systems. 1993.
-- J. L. Holi and J. N. Hwang. Finite precision error analysis of neural network hardware implementations. In Ijcnn-91- Seattle International Joint Conference on Neural Networks, pages 519–525 vol.1, 1993. 
+- J. L. Holi and J. N. Hwang. [Finite precision error analysis of neural network hardware implementations]. In Ijcnn-91- Seattle International Joint Conference on Neural Networks, pages 519–525 vol.1, 1993. 
   
 ### 2001
 - Suzuki, Kenji, Isao Horiba, and Noboru Sugie. [A simple neural network pruning algorithm with application to filter synthesis](https://link.springer.com/article/10.1023/A:1009639214138) .[C] Neural Processing Letters 13.1 (2001): 43-53.. 2001
@@ -39,15 +39,15 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Quantization】 Jegou, Herve, Matthijs Douze, and Cordelia Schmid. [Product quantization for nearest neighbor search](https://hal.inria.fr/inria-00514462/document) IEEE transactions on pattern analysis and machine intelligence 33.1 (2011): 117-128.
 
 ### 2012
-- D. Hammerstrom. A vlsi architecture for highperformance, low-cost, on-chip learning. In IJCNN International Joint Conference on Neural Networks, pages 537– 544 vol.2, 2012.
+- D. Hammerstrom. [A vlsi architecture for highperformance, low-cost, on-chip learning]. In IJCNN International Joint Conference on Neural Networks, pages 537– 544 vol.2, 2012.
 
 ### 2013
-- M. Denil, B. Shakibi, L. Dinh, N. de Freitas, et al. Predicting parameters in deep learning. In Advances in Neural Information Processing Systems, pages 2148–2156, 2013
+- M. Denil, B. Shakibi, L. Dinh, N. de Freitas, et al. [Predicting parameters in deep learning]. In Advances in Neural Information Processing Systems, pages 2148–2156, 2013
 
 ### 2014
-- K. Hwang and W. Sung. Fixed-point feedforward deep neural network design using weights+ 1, 0, and- 1. In 2014 IEEE Workshop on Signal Processing Systems (SiPS), pages 1–6. IEEE, 2014. 
-- M. Horowitz. 1.1 computing’s energy problem (and what we can do about it). In Solid-State Circuits Conference Digest of Technical Papers, pages 10–14, 2014. 
-- Y. Chen, N. Sun, O. Temam, T. Luo, S. Liu, S. Zhang, L. He, J.Wang, L. Li, and T. Chen. Dadiannao: A machinelearning supercomputer. In Ieee/acm International Symposium on Microarchitecture, pages 609–622, 2014.
+- K. Hwang and W. Sung. [Fixed-point feedforward deep neural network design using weights+ 1, 0, and- 1]. In 2014 IEEE Workshop on Signal Processing Systems (SiPS), pages 1–6. IEEE, 2014. 
+- M. Horowitz. [1.1 computing’s energy problem (and what we can do about it)]. In Solid-State Circuits Conference Digest of Technical Papers, pages 10–14, 2014. 
+- Y. Chen, N. Sun, O. Temam, T. Luo, S. Liu, S. Zhang, L. He, J.Wang, L. Li, and T. Chen. [Dadiannao: A machinelearning supercomputer]. In Ieee/acm International Symposium on Microarchitecture, pages 609–622, 2014.
 - 【Distillation】Hinton, Geoffrey, Oriol Vinyals, and Jeff Dean. [Dark knowledge](http://www.ttic.edu/dl/dark14.pdf) .[C]Presented as the keynote in BayLearn 2 (2014).
 - 【Low Rank Approximation】Jaderberg, Max, Andrea Vedaldi, and Andrew Zisserman. [Speeding up convolutional neural networks with low rank expansions](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14b/jaderberg14b.pdf) .[J] arXiv preprint arXiv:1405.3866 (2014).
 - 【Low Rank Approximation】Emily Denton, Wojciech Zaremba, Joan Bruna, Yann LeCun, Rob Fergus .[Exploiting Linear Structure Within Convolutional Networks for Efficient  Evaluation](https://arxiv.org/pdf/1404.00736) .[J] arXiv preprint arXiv:1404.00736
@@ -58,8 +58,8 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Low Rank Approximation】 Lebedev V, Ganin Y, Rakhuba M, et al. [Speeding-up convolutional neural networks using fine-tuned cp-decomposition](https://arxiv.org/pdf/1412.6553) .[J]. arXiv preprint arXiv:1412.6553, 2014.
 
 ### 2015
-- Zhang. Optimizing fpga-based accelerator design for deep convolutional neural networks. In Proceedings of the 2015 ACM/SIGDA International Symposium on Field- Programmable Gate Arrays, FPGA ’15, 2015. 
-- M. Courbariaux, Y. Bengio, and J.-P. David. Binaryconnect: Training deep neural networks with binary weights during propagations. In Advances in Neural Information Processing Systems, pages 3123–3131, 2015.
+- Zhang. [Optimizing fpga-based accelerator design for deep convolutional neural networks.] In Proceedings of the 2015 ACM/SIGDA International Symposium on Field- Programmable Gate Arrays, FPGA ’15, 2015. 
+- M. Courbariaux, Y. Bengio, and J.-P. David.[ Binaryconnect: Training deep neural networks with binary weights during propagations]. In Advances in Neural Information Processing Systems, pages 3123–3131, 2015.
 - 【System】Lane, Nicholas D., et al. [An Early Resource Characterization of Deep Learning on Wearables, Smartphones and Internet-of-Things Devices](http://niclane.org/pubs/iotapp15_early.pdf) .[C]Proceedings of the 2015 international workshop on internet of things towards applications. ACM, 2015.
 - Han, Song, et al. [Learning both weights and connections for efficient neural network](http://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network) .[C] Advances in neural information processing systems. 2015.
 - 【Low Rank Approximation】 Yang Z, Moczulski M, Denil M, et al. [Deep fried convnets](http://openaccess.thecvf.com/content_iccv_2015/papers/Yang_Deep_Fried_Convnets_ICCV_2015_paper.pdf) .[C]//Proceedings of the IEEE International Conference on Computer Vision. 2015: 1476-1483.
@@ -83,26 +83,26 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Quantization】Jiaxiang Wu, Cong Leng, Yuhang Wang, Qinghao Hu, Jian Cheng .[Quantized Convolutional Neural Networks for Mobile Devices](https://arxiv.org/pdf/1512.06473) .[J] arXiv preprint arXiv:1512.06473
 
 ### 2016
-- Y.Wang, J. Xu, Y. Han, H. Li, and X. Li. Deepburning: automatic generation of fpga-based learning accelerators for the neural network family. In Design Automation Conference, page 110, 2016. 
-- Y. Guo, A. Yao, and Y. Chen. Dynamic network surgery for efficient dnns. In Advances In Neural Information Processing Systems, pages 1379–1387, 2016. 
-- W. Wen, C. Wu, Y. Wang, Y. Chen, and H. Li. Learning structured sparsity in deep neural networks. In Advances in Neural Information Processing Systems, pages 2074–2082, 2016.
-- V. Lebedev and V. Lempitsky. Fast convnets using groupwise brain damage. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 2554– 2564, 2016. 
-- S. Zhang, Z. Du, L. Zhang, H. Lan, S. Liu, L. Li, Q. Guo, T. Chen, and Y. Chen. Cambricon-x: An accelerator for sparse neural networks. In Ieee/acm International Symposium on Microarchitecture, pages 1–12, 2016.
-- S. I. Venieris and C. S. Bouganis. fpgaconvnet: A framework for mapping convolutional neural networks on fpgas. In IEEE International Symposium on Field-Programmable Custom Computing Machines, pages 40–47, 2016.
-- S. Liu, Z. Du, J. Tao, D. Han, T. Luo, Y. Xie, Y. Chen, and T. Chen. Cambricon: An instruction set architecture for neural networks. SIGARCH Comput. Archit. News, 44(3), June 2016.
-- Suda. Throughput-optimized opencl-based fpga accelerator for large-scale convolutional neural networks. In Proceedings of the 2016 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, FPGA ’16, 2016.
-- P. Wang and J. Cheng. Accelerating convolutional neural networks for mobile applications. In Proceedings of the 2016 ACM on Multimedia Conference, pages 541–545. ACM, 2016.
-- Qiu. Going deeper with embedded fpga platform for convolutional neural network. In Proceedings of the 2016 ACM/SIGDA International Symposium on Field- Programmable Gate Arrays, FPGA ’16, 2016. 
-- L. Xia, T. Tang, W. Huangfu, M. Cheng, X. Yin, B. Li, Y. Wang, and H. Yang. Switched by input: Power efficient structure for rram-based convolutional neural network. In Design Automation Conference, page 125, 2016.
-- M. Alwani, H. Chen, M. Ferdman, and P. A. Milder. Fusedlayer cnn accelerators. In MICRO, 2016.
-- K. Kim, J. Kim, J. Yu, J. Seo, J. Lee, and K. Choi. Dynamic energy-accuracy trade-off using stochastic computing in deep neural networks. In Design Automation Conference, page 124, 2016.
-- J. Zhu, Z. Qian, and C. Y. Tsui. Lradnn: High-throughput and energy-efficient deep neural network accelerator using low rank approximation. In Asia and South Pacific Design Automation Conference, pages 581–586, 2016.
-- J. Wu, C. Leng, Y. Wang, Q. Hu, and J. Cheng. Quantized convolutional neural networks for mobile devices. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
-- J. Albericio, P. Judd, T. Hetherington, T. Aamodt, N. E. Jerger, and A. Moshovos. Cnvlutin: Ineffectual-neuron-free deep neural network computing. In International Symposium on Computer Architecture, pages 1–13, 2016. 
-- H. Sharma, J. Park, D. Mahajan, E. Amaro, J. K. Kim, C. Shao, A. Mishra, and H. Esmaeilzadeh. From highlevel deep neural models to fpgas. In Ieee/acm International Symposium on Microarchitecture, pages 1–12, 2016. 
-- D. Kim, J. Kung, S. Chai, S. Yalamanchili, and S. Mukhopadhyay. Neurocube: A programmable digital neuromorphic architecture with high-density 3d memory. In International Symposium on Computer Architecture, pages 380–392, 2016.
-- C. Zhang, D. Wu, J. Sun, G. Sun, G. Luo, and J. Cong. Energy-efficient cnn implementation on a deeply pipelined fpga cluster. In Proceedings of the 2016 International Symposium on Low Power Electronics and Design, ISLPED ’16, 2016.
-- C. Zhang, Z. Fang, P. Pan, P. Pan, and J. Cong. Caffeine: towards uniformed representation and acceleration for deep convolutional neural networks. In International Conference on Computer-Aided Design, page 12, 2016.
+- Y.Wang, J. Xu, Y. Han, H. Li, and X. Li. [Deepburning: automatic generation of fpga-based learning accelerators for the neural network family]. In Design Automation Conference, page 110, 2016. 
+- Y. Guo, A. Yao, and Y. Chen. [Dynamic network surgery for efficient dnns]. In Advances In Neural Information Processing Systems, pages 1379–1387, 2016. 
+- W. Wen, C. Wu, Y. Wang, Y. Chen, and H. Li. [Learning structured sparsity in deep neural networks.] In Advances in Neural Information Processing Systems, pages 2074–2082, 2016.
+- V. Lebedev and V. Lempitsky. [Fast convnets using groupwise brain damage]. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 2554– 2564, 2016. 
+- S. Zhang, Z. Du, L. Zhang, H. Lan, S. Liu, L. Li, Q. Guo, T. Chen, and Y. Chen. [Cambricon-x: An accelerator for sparse neural networks]. In Ieee/acm International Symposium on Microarchitecture, pages 1–12, 2016.
+- S. I. Venieris and C. S. Bouganis. [fpgaconvnet: A framework for mapping convolutional neural networks on fpgas]. In IEEE International Symposium on Field-Programmable Custom Computing Machines, pages 40–47, 2016.
+- S. Liu, Z. Du, J. Tao, D. Han, T. Luo, Y. Xie, Y. Chen, and T. Chen. [Cambricon: An instruction set architecture for neural networks]. SIGARCH Comput. Archit. News, 44(3), June 2016.
+- Suda. [Throughput-optimized opencl-based fpga accelerator for large-scale convolutional neural networks]. In Proceedings of the 2016 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, FPGA ’16, 2016.
+- P. Wang and J. Cheng. [Accelerating convolutional neural networks for mobile applications]. In Proceedings of the 2016 ACM on Multimedia Conference, pages 541–545. ACM, 2016.
+- Qiu. [Going deeper with embedded fpga platform for convolutional neural network.] In Proceedings of the 2016 ACM/SIGDA International Symposium on Field- Programmable Gate Arrays, FPGA ’16, 2016. 
+- L. Xia, T. Tang, W. Huangfu, M. Cheng, X. Yin, B. Li, Y. Wang, and H. Yang. [Switched by input: Power efficient structure for rram-based convolutional neural network]. In Design Automation Conference, page 125, 2016.
+- M. Alwani, H. Chen, M. Ferdman, and P. A. Milder. [Fusedlayer cnn accelerators]. In MICRO, 2016.
+- K. Kim, J. Kim, J. Yu, J. Seo, J. Lee, and K. Choi.[ Dynamic energy-accuracy trade-off using stochastic computing in deep neural networks]. In Design Automation Conference, page 124, 2016.
+- J. Zhu, Z. Qian, and C. Y. Tsui. [Lradnn: High-throughput and energy-efficient deep neural network accelerator using low rank approximation]. In Asia and South Pacific Design Automation Conference, pages 581–586, 2016.
+- J. Wu, C. Leng, Y. Wang, Q. Hu, and J. Cheng.[Quantized convolutional neural networks for mobile devices]. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
+- J. Albericio, P. Judd, T. Hetherington, T. Aamodt, N. E. Jerger, and A. Moshovos. [Cnvlutin: Ineffectual-neuron-free deep neural network computing]. In International Symposium on Computer Architecture, pages 1–13, 2016. 
+- H. Sharma, J. Park, D. Mahajan, E. Amaro, J. K. Kim, C. Shao, A. Mishra, and H. [Esmaeilzadeh. From highlevel deep neural models to fpgas.] In Ieee/acm International Symposium on Microarchitecture, pages 1–12, 2016. 
+- D. Kim, J. Kung, S. Chai, S. Yalamanchili, and S. Mukhopadhyay. [Neurocube: A programmable digital neuromorphic architecture with high-density 3d memory]. In International Symposium on Computer Architecture, pages 380–392, 2016.
+- C. Zhang, D. Wu, J. Sun, G. Sun, G. Luo, and J. Cong.[Energy-efficient cnn implementation on a deeply pipelined fpga cluster]. In Proceedings of the 2016 International Symposium on Low Power Electronics and Design, ISLPED ’16, 2016.
+- C. Zhang, Z. Fang, P. Pan, P. Pan, and J. Cong. [Caffeine: towards uniformed representation and acceleration for deep convolutional neural networks]. In International Conference on Computer-Aided Design, page 12, 2016.
 - 【Distillation】Luo, Ping, et al. [MobileID: Face Model Compression by Distilling Knowledge from Neurons](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11977) Thirtieth AAAI Conference on Artificial Intelligence. 2016.
 - 【System】Huynh, Loc Nguyen, Rajesh Krishna Balan, and Youngki Lee. [DeepSense: A GPU-based deep convolutional neural network framework on commodity mobile devices](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4278&context=sis_research) Proceedings of the 2016 Workshop on Wearable Systems and Applications. ACM, 2016.
 - 【System】Lane, Nicholas D., et al. [DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices](http://niclane.org/pubs/deepx_ipsn.pdf) .[C]Proceedings of the 15th International Conference on Information Processing in Sensor Networks. IEEE Press, 2016.
@@ -150,10 +150,10 @@ also, some papers and links collected from below, they are all awesome resources
 - S. Zagoruyko and N. Komodakis. [Paying more attention to attention: Improving the performance of convolutional neural networks via attention transfer](https://arxiv.org/pdf/1612.03928.pdf). arXiv preprint arXiv:1612.03928, 2016. 
 
 ### 2017
-- A. Parashar, M. Rhu, A. Mukkara, A. Puglielli, R. Venkatesan, B. Khailany, J. Emer, S. W. Keckler, and W. J. Dally. Scnn: An accelerator for compressed-sparse convolutional neural networks. pages 27–40, 2017. 
-- A. Ren, Z. Li, C. Ding, Q. Qiu, Y. Wang, J. Li, X. Qian, and B. Yuan. Sc-dcnn: Highly-scalable deep convolutional neural network using stochastic computing. Acm Sigops Operating Systems Review, 51(2):405–418, 2017. 
-- D. Nguyen, D. Kim, and J. Lee. Double MAC: doubling the performance of convolutional neural networks on modern fpgas. In Design, Automation and Test in Europe Conference and Exhibition, DATE 2017, Lausanne, Switzerland, March 27-31, 2017, pages 890–893, 2017. 
-- Edward. Lognet: Energy-efficient neural networks using logarithmic computation. 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pages 5900–5904, 2017. 
+- A. Parashar, M. Rhu, A. Mukkara, A. Puglielli, R. Venkatesan, B. Khailany, J. Emer, S. W. Keckler, and W. J. Dally. [Scnn: An accelerator for compressed-sparse convolutional neural networks]. pages 27–40, 2017. 
+- A. Ren, Z. Li, C. Ding, Q. Qiu, Y. Wang, J. Li, X. Qian, and B. Yuan. [Sc-dcnn: Highly-scalable deep convolutional neural network using stochastic computing]. Acm Sigops Operating Systems Review, 51(2):405–418, 2017. 
+- D. Nguyen, D. Kim, and J. Lee. [Double MAC: doubling the performance of convolutional neural networks on modern fpgas]. In Design, Automation and Test in Europe Conference and Exhibition, DATE 2017, Lausanne, Switzerland, March 27-31, 2017, pages 890–893, 2017. 
+- Edward. [Lognet: Energy-efficient neural networks using logarithmic computation]. 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pages 5900–5904, 2017. 
 - H. Mao, S. Han, J. Pool, W. Li, X. Liu, Y. Wang, and W. J. Dally. Exploring the regularity of sparse structure in convolutional neural networks. arXiv preprint arXiv:1705.08922, 2017. 
 - H. Sim and J. Lee. A new stochastic computing multiplier with application to deep convolutional neural networks. In Design Automation Conference, page 29, 2017. 
 - H. Tann, S. Hashemi, I. Bahar, and S. Reda. Hardwaresoftware codesign of accurate, multiplier-free deep neural networks. CoRR, abs/1705.04288, 2017. 
