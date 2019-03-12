@@ -17,7 +17,7 @@ also, some papers and links collected from below, they are all awesome resources
 - [x][papers&2years ago&comment][jnjaby/Model-Compression-Acceleration](https://github.com/jnjaby/Model-Compression-Acceleration)
 - [conferences][mapleam/model-compression-and-acceleration-4-DNN](https://github.com/mapleam/model-compression-and-acceleration-4-DNN)
 - [papers&2years ago][Xreki/ModelCompression](https://github.com/Xreki/ModelCompression/tree/master/papers)
-- [$\cdot$][Ref][clhne/model-compression-and-acceleration](https://github.com/clhne/model-compression-and-acceleration)
+- [x][Ref][clhne/model-compression-and-acceleration](https://github.com/clhne/model-compression-and-acceleration)
 - [zhihu][jyhengcoder/Model-Compression](https://github.com/jyhengcoder/Model-Compression)
 - [papers&codes][QinHaotong/ModelCompression](https://github.com/QinHaotong/ModelCompression)
 - [intro&papers][Tianyu-Hua/ModelCompression](https://github.com/Tianyu-Hua/ModelCompression)
