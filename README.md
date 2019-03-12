@@ -29,17 +29,17 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Pruning】 LeCun Y, Denker J S, Solla S A. [Optimal brain damage](http://papers.nips.cc/paper/250-optimal-brain-damage.pdf) .[C]//Advances in neural information processing systems. 1990: 598-605.
 
 ### 1993
-- [Second order derivatives for network pruning: Optimal brain surgeon](http://papers.nips.cc/paper/647-second-order-derivatives-for-network-pruning-optimal-brain-surgeon.pdf). 1993
+- Hassibi, Babak, and David G. Stork. [Second order derivatives for network pruning: Optimal brain surgeon](http://papers.nips.cc/paper/647-second-order-derivatives-for-network-pruning-optimal-brain-surgeon.pdf) .[C]Advances in neural information processing systems. 1993.
   
 ### 2001
-- 2001 [A simple neural network pruning algorithm with application to filter synthesis](https://link.springer.com/article/10.1023/A:1009639214138). 2001
+- Suzuki, Kenji, Isao Horiba, and Noboru Sugie. [A simple neural network pruning algorithm with application to filter synthesis](https://link.springer.com/article/10.1023/A:1009639214138) .[C] Neural Processing Letters 13.1 (2001): 43-53.. 2001
   
 ### 2011
 - 【Quantization】 Jegou, Herve, Matthijs Douze, and Cordelia Schmid. [Product quantization for nearest neighbor search](https://hal.inria.fr/inria-00514462/document) IEEE transactions on pattern analysis and machine intelligence 33.1 (2011): 117-128.
 
 ### 2014
-- 【Distillation】[Dark knowledge](http://www.ttic.edu/dl/dark14.pdf)
-- 【Low Rank Approximation】[Speeding up convolutional neural networks with low rank expansions](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14b/jaderberg14b.pdf)
+- 【Distillation】Hinton, Geoffrey, Oriol Vinyals, and Jeff Dean. [Dark knowledge](http://www.ttic.edu/dl/dark14.pdf) .[C]Presented as the keynote in BayLearn 2 (2014).
+- 【Low Rank Approximation】Jaderberg, Max, Andrea Vedaldi, and Andrew Zisserman. [Speeding up convolutional neural networks with low rank expansions](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14b/jaderberg14b.pdf) .[J] arXiv preprint arXiv:1405.3866 (2014).
 - 【Low Rank Approximation】Emily Denton, Wojciech Zaremba, Joan Bruna, Yann LeCun, Rob Fergus .[Exploiting Linear Structure Within Convolutional Networks for Efficient  Evaluation](https://arxiv.org/pdf/1404.00736) .[J] arXiv preprint arXiv:1404.00736
 - 【Low Rank Approximation】Xiangyu Zhang, Jianhua Zou, Xiang Ming, Kaiming He, Jian Sun .[Efficient and Accurate Approximations of Nonlinear Convolutional  Networks](https://arxiv.org/pdf/1411.04229) .[J] arXiv preprint arXiv:1411.04229
 - 【Structure】 Jin J, Dundar A, Culurciello E. [Flattened convolutional neural networks for feedforward acceleration](https://arxiv.org/pdf/1412.5474) .[J]. arXiv preprint arXiv:1412.5474, 2014.
@@ -48,8 +48,8 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Low Rank Approximation】 Lebedev V, Ganin Y, Rakhuba M, et al. [Speeding-up convolutional neural networks using fine-tuned cp-decomposition](https://arxiv.org/pdf/1412.6553) .[J]. arXiv preprint arXiv:1412.6553, 2014.
 
 ### 2015
-- 【System】[An Early Resource Characterization of Deep Learning on Wearables, Smartphones and Internet-of-Things Devices](http://niclane.org/pubs/iotapp15_early.pdf). 2015
-- [Learning both weights and connections for efficient neural network](http://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network). 2015
+- 【System】Lane, Nicholas D., et al. [An Early Resource Characterization of Deep Learning on Wearables, Smartphones and Internet-of-Things Devices](http://niclane.org/pubs/iotapp15_early.pdf) .[C]Proceedings of the 2015 international workshop on internet of things towards applications. ACM, 2015.
+- Han, Song, et al. [Learning both weights and connections for efficient neural network](http://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network) .[C] Advances in neural information processing systems. 2015.
 - 【Low Rank Approximation】 Yang Z, Moczulski M, Denil M, et al. [Deep fried convnets](http://openaccess.thecvf.com/content_iccv_2015/papers/Yang_Deep_Fried_Convnets_ICCV_2015_paper.pdf) .[C]//Proceedings of the IEEE International Conference on Computer Vision. 2015: 1476-1483.
 - 【Structure】 He K, Sun J. [Convolutional neural networks at constrained time cost](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/He_Convolutional_Neural_Networks_2015_CVPR_paper.pdf) .[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 5353-5360.
 - 【Quantization】 Courbariaux, Matthieu, Yoshua Bengio, and Jean-Pierre David. [Binaryconnect: Training deep neural networks with binary weights during propagations.](http://papers.nips.cc/paper/5647-binaryconnect-training-deep-neural-networks-with-binary-weights-during-propagations.pdf) Advances in neural information processing systems. 2015.
@@ -57,7 +57,7 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Distillation】Geoffrey Hinton, Oriol Vinyals, Jeff Dean .[Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531) .[J] arXiv preprint arXiv:1503.02531
 - 【Low Rank Approximation】Xiangyu Zhang, Jianhua Zou, Kaiming He, Jian Sun .[Accelerating Very Deep Convolutional Networks for Classification and  Detection](https://arxiv.org/pdf/1505.06798) .[J] arXiv preprint arXiv:1505.06798
 - 【Pruning】Song Han, Jeff Pool, John Tran, William J. Dally .[Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/pdf/1506.02626) .[J] arXiv preprint arXiv:1506.02626
-- [Data-free parameter pruning for deep neural networks](https://arxiv.org/abs/1507.06149) .[J] arXiv preprint arXiv:1507.06149
+- Srinivas, Suraj, and R. Venkatesh Babu. [Data-free parameter pruning for deep neural networks](https://arxiv.org/abs/1507.06149) .[J] arXiv preprint arXiv:1507.06149
 - 【Pruning】Song Han, Huizi Mao, William J. Dally .[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained  Quantization and Huffman Coding](https://arxiv.org/pdf/1510.00149) .[J] arXiv preprint arXiv:1510.00149
 - 【Distillation】Tianqi Chen, Ian Goodfellow, Jonathon Shlens .[Net2Net: Accelerating Learning via Knowledge Transfer](https://arxiv.org/pdf/1511.05641) .[J] arXiv preprint arXiv:1511.05641
 - 【Low Rank Approximation】Cheng Tai, Tong Xiao, Yi Zhang, Xiaogang Wang, Weinan E .[Convolutional neural networks with low-rank regularization](https://arxiv.org/pdf/1511.06067) .[J] arXiv preprint arXiv:1511.06067
@@ -68,14 +68,14 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Quantization】Jiaxiang Wu, Cong Leng, Yuhang Wang, Qinghao Hu, Jian Cheng .[Quantized Convolutional Neural Networks for Mobile Devices](https://arxiv.org/pdf/1512.06473) .[J] arXiv preprint arXiv:1512.06473
 
 ### 2016
-- 【Distillation】[MobileID: Face Model Compression by Distilling Knowledge from Neurons](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11977). 2016
-- 【System】[DeepSense: A GPU-based deep convolutional neural network framework on commodity mobile devices](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4278&context=sis_research). 2016
-- 【System】[DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices](http://niclane.org/pubs/deepx_ipsn.pdf). 2016
-- 【System】[DXTK: Enabling Resource-efficient Deep Learning on Mobile and Embedded Devices with the DeepX Toolkit](http://niclane.org/pubs/dxtk_mobicase.pdf). 2016
-- 【System】[MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints](http://haneul.github.io/papers/mcdnn.pdf). 2016
-- 【System】[Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables](http://niclane.org/pubs/sparsesep_sensys.pdf). 2016
-- [Pruning convolutional neural networks for resource efficient transfer learning](https://pdfs.semanticscholar.org/026e/cf916023e13191331a354271b7f9b86e50a1.pdf). 2016
-- [A Simple yet Effective Method to Prune Dense Layers of Neural Networks](https://openreview.net/forum?id=HJIY0E9ge&noteId=HJIY0E9ge). 2016
+- 【Distillation】Luo, Ping, et al. [MobileID: Face Model Compression by Distilling Knowledge from Neurons](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11977) Thirtieth AAAI Conference on Artificial Intelligence. 2016.
+- 【System】Huynh, Loc Nguyen, Rajesh Krishna Balan, and Youngki Lee. [DeepSense: A GPU-based deep convolutional neural network framework on commodity mobile devices](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4278&context=sis_research) Proceedings of the 2016 Workshop on Wearable Systems and Applications. ACM, 2016.
+- 【System】Lane, Nicholas D., et al. [DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices](http://niclane.org/pubs/deepx_ipsn.pdf) .[C]Proceedings of the 15th International Conference on Information Processing in Sensor Networks. IEEE Press, 2016.
+- 【System】Lane, Nicholas D., et al. [DXTK: Enabling Resource-efficient Deep Learning on Mobile and Embedded Devices with the DeepX Toolkit](http://niclane.org/pubs/dxtk_mobicase.pdf)  .[J]MobiCASE. 2016.
+- 【System】Han, Seungyeop, et al. [MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints](http://haneul.github.io/papers/mcdnn.pdf) .[C]Proceedings of the 14th Annual International Conference on Mobile Systems, Applications, and Services. ACM, 2016.
+- 【System】Bhattacharya, Sourav, and Nicholas D. Lane. [Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables](http://niclane.org/pubs/sparsesep_sensys.pdf) .[C]Proceedings of the 14th ACM Conference on Embedded Network Sensor Systems CD-ROM. ACM, 2016.
+- Molchanov, Pavlo, et al. [Pruning convolutional neural networks for resource efficient transfer learning](https://pdfs.semanticscholar.org/026e/cf916023e13191331a354271b7f9b86e50a1.pdf). arXiv preprint arXiv:1611.06440 3 (2016). 
+- Babaeizadeh, Mohammad, Paris Smaragdis, and Roy H. Campbell. [A Simple yet Effective Method to Prune Dense Layers of Neural Networks](https://openreview.net/forum?id=HJIY0E9ge&noteId=HJIY0E9ge) (2016).
 - 【Pruning】 Sun Y, Wang X, Tang X. [Sparsifying neural network connections for face recognition](http://openaccess.thecvf.com/content_cvpr_2016/papers/Sun_Sparsifying_Neural_Network_CVPR_2016_paper.pdf) .[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 4856-4864.
 - 【Quantization】 Lin, Darryl, Sachin Talathi, and Sreekanth Annapureddy. [Fixed point quantization of deep convolutional networks.](http://www.jmlr.org/proceedings/papers/v48/linb16.pdf) International Conference on Machine Learning. 2016.
 - 【System】Song Han, Xingyu Liu, Huizi Mao, Jing Pu, Ardavan Pedram, Mark A. Horowitz, William J. Dally .[EIE: Efficient Inference Engine on Compressed Deep Neural Network](https://arxiv.org/pdf/1602.01528) .[J] arXiv preprint arXiv:1602.01528
@@ -166,11 +166,11 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Quantization】Benoit Jacob, Skirmantas Kligys, Bo Chen, Menglong Zhu, Matthew Tang, Andrew Howard, Hartwig Adam, Dmitry Kalenichenko .[Quantization and Training of Neural Networks for Efficient  Integer-Arithmetic-Only Inference](https://arxiv.org/pdf/1712.05877) .[J] arXiv preprint arXiv:1712.05877
 
 ### 2018
-- 【Pruning】[“Learning-Compression” Algorithms for Neural Net Pruning](http://faculty.ucmerced.edu/mcarreira-perpinan/papers/cvpr18.pdf). 2018
-- 【Pruning】[AMC: AutoML for model compression and acceleration on mobile devices](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf). 2018
+- 【Pruning】Carreira-Perpinán, Miguel A., and Yerlan Idelbayev. [“Learning-Compression” Algorithms for Neural Net Pruning](http://faculty.ucmerced.edu/mcarreira-perpinan/papers/cvpr18.pdf) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
+- 【Pruning】He, Yihui, et al. [AMC: AutoML for model compression and acceleration on mobile devices](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf) Proceedings of the European Conference on Computer Vision (ECCV). 2018.
 - 【Structure】Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen .[MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381) .[J] arXiv preprint arXiv:1801.04381
 - Jialiang Guo, Bo Zhou, Xiangrui Zeng, Zachary Freyberg, Min Xu .[Model compression for faster structural separation of macromolecules  captured by Cellular Electron Cryo-Tomography](https://arxiv.org/pdf/1801.10597) .[J] arXiv preprint arXiv:1801.10597.
-- [Faster Gaze Prediction With Dense Networks and Fisher Pruning](https://arxiv.org/abs/1801.05787) .[J] arXiv preprint arXiv:1801.05787
+- Theis, Lucas, et al .[Faster Gaze Prediction With Dense Networks and Fisher Pruning](https://arxiv.org/abs/1801.05787) .[J] arXiv preprint arXiv:1801.05787
 - 【Pruning】[Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers](https://arxiv.org/pdf/1802.00124) .[J] arXiv preprint arXiv:1802.00124
 - 【Survey】Jian Cheng, Peisong Wang, Gang Li, Qinghao Hu, Hanqing Lu .[Recent Advances in Efficient Computation of Deep Convolutional Neural  Networks](https://arxiv.org/pdf/1802.00939) .[J] arXiv preprint arXiv:1802.00939
 - 【Quantization】Yukun Ding, Jinglan Liu, Yiyu Shi .[On the Universal Approximability of Quantized ReLU Neural Networks](https://arxiv.org/pdf/1802.03646) .[J] arXiv preprint arXiv:1802.03646
