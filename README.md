@@ -22,7 +22,7 @@ also, some papers and links collected from below, they are all awesome resources
 > * [intro&papers][Tianyu-Hua/ModelCompression](https://github.com/Tianyu-Hua/ModelCompression)
 > * [others&Model Compression][guan-yuan/awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
 > * [resources][handong1587/cnn-compression-acceleration](https://handong1587.github.io/deep_learning/2015/10/09/cnn-compression-acceleration.html)
-> * [jnjaby/Model-Compression-Acceleration](https://github.com/jnjaby/Model-Compression-Acceleration)
+> * [papers&2years ago][jnjaby/Model-Compression-Acceleration](https://github.com/jnjaby/Model-Compression-Acceleration)
 
 ---
 ### 1993
