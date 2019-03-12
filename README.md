@@ -83,6 +83,10 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Quantization】Jiaxiang Wu, Cong Leng, Yuhang Wang, Qinghao Hu, Jian Cheng .[Quantized Convolutional Neural Networks for Mobile Devices](https://arxiv.org/pdf/1512.06473) .[J] arXiv preprint arXiv:1512.06473
 
 ### 2016
+- S. Zhang, Z. Du, L. Zhang, H. Lan, S. Liu, L. Li, Q. Guo, T. Chen, and Y. Chen. Cambricon-x: An accelerator for sparse neural networks. In Ieee/acm International Symposium on Microarchitecture, pages 1–12, 2016.
+- S. I. Venieris and C. S. Bouganis. fpgaconvnet: A framework for mapping convolutional neural networks on fpgas. In IEEE International Symposium on Field-Programmable Custom Computing Machines, pages 40–47, 2016.
+- S. Liu, Z. Du, J. Tao, D. Han, T. Luo, Y. Xie, Y. Chen, and T. Chen. Cambricon: An instruction set architecture for neural networks. SIGARCH Comput. Archit. News, 44(3), June 2016.
+- Suda. Throughput-optimized opencl-based fpga accelerator for large-scale convolutional neural networks. In Proceedings of the 2016 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, FPGA ’16, 2016.
 - P. Wang and J. Cheng. Accelerating convolutional neural networks for mobile applications. In Proceedings of the 2016 ACM on Multimedia Conference, pages 541–545. ACM, 2016.
 - Qiu. Going deeper with embedded fpga platform for convolutional neural network. In Proceedings of the 2016 ACM/SIGDA International Symposium on Field- Programmable Gate Arrays, FPGA ’16, 2016. 
 - L. Xia, T. Tang, W. Huangfu, M. Cheng, X. Yin, B. Li, Y. Wang, and H. Yang. Switched by input: Power efficient structure for rram-based convolutional neural network. In Design Automation Conference, page 125, 2016.
@@ -139,6 +143,7 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Quantization】Yoojin Choi, Mostafa El-Khamy, Jungwon Lee .[Towards the Limit of Network Quantization](https://arxiv.org/pdf/1612.01543) .[J] arXiv preprint arXiv:1612.01543
 - 【Distillation】Sergey Zagoruyko, Nikos Komodakis .[Paying More Attention to Attention: Improving the Performance of  Convolutional Neural Networks via Attention Transfer](https://arxiv.org/pdf/1612.03928) .[J] arXiv preprint arXiv:1612.03928
 - 【Distallation】 Shen J, Vesdapunt N, Boddeti V N, et al. [In teacher we trust: Learning compressed models for pedestrian detection](https://arxiv.org/pdf/1612.00478.pdf) .[J]. arXiv preprint arXiv:1612.00478, 2016.
+- S. Zagoruyko and N. Komodakis. [Paying more attention to attention: Improving the performance of convolutional neural networks via attention transfer](https://arxiv.org/pdf/1612.03928.pdf). arXiv preprint arXiv:1612.03928, 2016. 
 
 ### 2017
 - 【Distillation】Yim J, Joo D, Bae J, et al. [A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learnin](https://pdfs.semanticscholar.org/0410/659b6a311b281d10e0e44abce9b1c06be462.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 4133-4141.
