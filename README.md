@@ -111,19 +111,19 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Distallation】 Shen J, Vesdapunt N, Boddeti V N, et al. [In teacher we trust: Learning compressed models for pedestrian detection](https://arxiv.org/pdf/1612.00478.pdf) .[J]. arXiv preprint arXiv:1612.00478, 2016.
 
 ### 2017
-- 【Distillation】[A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learnin](https://pdfs.semanticscholar.org/0410/659b6a311b281d10e0e44abce9b1c06be462.pdf). 2017
-- 【Distillation】[Learning Efficient Object Detection Models with Knowledge Distillation](http://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf). 2017
-- 【Miscellaneous】[Beyond Filters: Compact Feature Map for Portable Deep Model](http://proceedings.mlr.press/v70/wang17m/wang17m.pdf). 2017
-- 【Miscellaneous】[SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf). 2017
-- 【Pruning】[Channel pruning for accelerating very deep neural networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Channel_Pruning_for_ICCV_2017_paper.pdf). 2017
-- 【Pruning】[Learning to Prune: Exploring the Frontier of Fast and Accurate Parsing](http://www.cs.jhu.edu/~jason/papers/vieira+eisner.tacl17.pdf). 2017
-- 【Pruning】[Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism](http://www-personal.umich.edu/~jiecaoyu/papers/jiecaoyu-isca17.pdf). 2017
-- 【System】[DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware](http://fahim-kawsar.net/papers/Mathur.MobiSys2017-Camera.pdf). 2017
-- 【System】[DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications](https://www.sigmobile.org/mobisys/2017/accepted.php). 2017
-- [Structured pruning of deep convolutional neural networks.](https://dl.acm.org/citation.cfm?id=3005348). 2017
-- [Channel pruning for accelerating very deep neural networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Channel_Pruning_for_ICCV_2017_paper.pdf). 2017
-- [Runtime neural pruning](http://papers.nips.cc/paper/6813-runtime-neural-pruning). 2017
-- [Net-trim: Convex pruning of deep neural networks with performance guarantee.](http://papers.nips.cc/paper/6910-net-trim-convex-pruning-of-deep-neural-networks-with-performance-guarantee). 2017
+- 【Distillation】Yim J, Joo D, Bae J, et al. [A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learnin](https://pdfs.semanticscholar.org/0410/659b6a311b281d10e0e44abce9b1c06be462.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 4133-4141.
+- 【Distillation】Chen G, Choi W, Yu X, et al. [Learning Efficient Object Detection Models with Knowledge Distillation](http://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf)[C]//Advances in Neural Information Processing Systems. 2017: 742-751.
+- 【Miscellaneous】[Beyond Filters: Compact Feature Map for Portable Deep Model](http://proceedings.mlr.press/v70/wang17m/wang17m.pdf)
+- 【Miscellaneous】[SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf)
+- 【Pruning】[Channel pruning for accelerating very deep neural networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Channel_Pruning_for_ICCV_2017_paper.pdf)
+- 【Pruning】[Learning to Prune: Exploring the Frontier of Fast and Accurate Parsing](http://www.cs.jhu.edu/~jason/papers/vieira+eisner.tacl17.pdf)
+- 【Pruning】[Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism](http://www-personal.umich.edu/~jiecaoyu/papers/jiecaoyu-isca17.pdf)
+- 【System】[DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware](http://fahim-kawsar.net/papers/Mathur.MobiSys2017-Camera.pdf)
+- 【System】[DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications](https://www.sigmobile.org/mobisys/2017/accepted.php)
+- [Structured pruning of deep convolutional neural networks.](https://dl.acm.org/citation.cfm?id=3005348)
+- [Channel pruning for accelerating very deep neural networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Channel_Pruning_for_ICCV_2017_paper.pdf)
+- [Runtime neural pruning](http://papers.nips.cc/paper/6813-runtime-neural-pruning)
+- [Net-trim: Convex pruning of deep neural networks with performance guarantee.](http://papers.nips.cc/paper/6910-net-trim-convex-pruning-of-deep-neural-networks-with-performance-guarantee)
 - 【Quantization】Zhaowei Cai, Xiaodong He, Jian Sun, Nuno Vasconcelos .[Deep Learning with Low Precision by Half-wave Gaussian Quantization](https://arxiv.org/pdf/1702.00953) .[J] arXiv preprint arXiv:1702.00953
 - 【Quantization】 Zhou, Aojun, et al. [Incremental network quantization: Towards lossless cnns with low-precision weights.](https://arxiv.org/pdf/1702.03044.pdf) arXiv preprint arXiv:1702.03044 (2017).
 - 【Pruning】Karen Ullrich, Edward Meeds, Max Welling .[Soft Weight-Sharing for Neural Network Compression](https://arxiv.org/pdf/1702.04008) .[J] arXiv preprint arXiv:1702.04008
