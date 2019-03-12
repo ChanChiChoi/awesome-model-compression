@@ -9,15 +9,15 @@ this collecting the papers (main from arxiv.org) about Model compression:
 **Low Rank Approximation**.  
 
 also, some papers and links collected from below, they are all awesome resources:
-> * [\cdot][papers][sun254/awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
-> * [\cdot][papers&ref][memoiry/Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
-> * [\cdot][papers][chester256/Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers)
-> * [\cdot][little papers][tejalal/awesome-deep-model-compression](https://github.com/tejalal/awesome-deep-model-compression)
-> * [\cdot][papers][cedrickchee/awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression)
-> * [\cdot][papers&2years ago&comment][jnjaby/Model-Compression-Acceleration](https://github.com/jnjaby/Model-Compression-Acceleration)
+> * [$\cdot$][papers][sun254/awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
+> * [$\cdot$][papers&ref][memoiry/Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
+> * [$\cdot$][papers][chester256/Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers)
+> * [$\cdot$][little papers][tejalal/awesome-deep-model-compression](https://github.com/tejalal/awesome-deep-model-compression)
+> * [$\cdot$][papers][cedrickchee/awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression)
+> * [$\cdot$][papers&2years ago&comment][jnjaby/Model-Compression-Acceleration](https://github.com/jnjaby/Model-Compression-Acceleration)
 > * [conferences][mapleam/model-compression-and-acceleration-4-DNN](https://github.com/mapleam/model-compression-and-acceleration-4-DNN)
 > * [papers&2years ago][Xreki/ModelCompression](https://github.com/Xreki/ModelCompression/tree/master/papers)
-> * [\cdot][Ref][clhne/model-compression-and-acceleration](https://github.com/clhne/model-compression-and-acceleration)
+> * [$\cdot$][Ref][clhne/model-compression-and-acceleration](https://github.com/clhne/model-compression-and-acceleration)
 > * [zhihu][jyhengcoder/Model-Compression](https://github.com/jyhengcoder/Model-Compression)
 > * [papers&codes][QinHaotong/ModelCompression](https://github.com/QinHaotong/ModelCompression)
 > * [intro&papers][Tianyu-Hua/ModelCompression](https://github.com/Tianyu-Hua/ModelCompression)
