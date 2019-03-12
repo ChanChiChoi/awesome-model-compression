@@ -9,7 +9,7 @@ this collecting the papers (main from arxiv.org) about Model compression:
 **Low Rank Approximation**.  
 
 also, some papers and links collected from below, they are all awesome resources:
-> * [$\cdot$][papers][sun254/awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
+> * [\*][papers][sun254/awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
 > * [$\cdot$][papers&ref][memoiry/Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
 > * [$\cdot$][papers][chester256/Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers)
 > * [$\cdot$][little papers][tejalal/awesome-deep-model-compression](https://github.com/tejalal/awesome-deep-model-compression)
