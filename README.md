@@ -280,8 +280,8 @@ also, some papers and links collected from below, they are all awesome resources
 - [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller):Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research;
 - [OAID/Tengine](https://github.com/OAID/Tengine):Tengine is a lite, high performance, modular inference engine for embedded device;
 - [fpeder/espresso](https://github.com/fpeder/espresso):Efficient forward propagation for BCNNs;
+- [Tensorflow lite](https://tensorflow.google.cn/lite):TensorFlow Lite is an open source deep learning framework for on-device inference.;&nbsp;&nbsp;
 - [pytorch-tensor-decompositions](https://github.com/jacobgil/pytorch-tensor-decompositions):PyTorch implementation of [1412.6553] and [1511.06530] tensor decomposition methods for convolutional layers;
-- [Tensorflow lite](https://tensorflow.google.cn/lite);&nbsp;&nbsp;
 - [tensorflow/quantize](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/quantize#quantized-accuracy-results)
 - [mxnet/quantization](https://github.com/apache/incubator-mxnet/tree/master/example/quantization)
 - [TensoRT4-Example](https://github.com/YunYang1994/TensoRT4-Example)  
