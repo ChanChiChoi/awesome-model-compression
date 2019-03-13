@@ -272,7 +272,7 @@ also, some papers and links collected from below, they are all awesome resources
 ### Projects
      
 - [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt)       
-- **[Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) **
+- [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) 
 - [dmlc/tv](https://github.com/dmlc/tvm)
 - [Tencent/ncnn](https://github.com/Tencent/ncnn)
 - [pytorch/glow](https://github.com/pytorch/glow)
