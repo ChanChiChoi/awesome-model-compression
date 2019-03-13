@@ -271,18 +271,18 @@ also, some papers and links collected from below, they are all awesome resources
 ---
 ### Projects
      
-- [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt):Programmable Inference Accelerator;&nbsp;&nbsp;
-- [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow):An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications;
-- [dmlc/tvm](https://github.com/dmlc/tvm):Open deep learning compiler stack for cpu, gpu and specialized accelerators;
-- [Tencent/ncnn](https://github.com/Tencent/ncnn):ncnn is a high-performance neural network inference framework optimized for the mobile platform;
-- [pytorch/glow](https://github.com/pytorch/glow):Compiler for Neural Network hardware accelerators;
-- [NervanaSystems/neon](https://github.com/NervanaSystems/neon):Intel® Nervana™ reference deep learning framework committed to best performance on all hardware;
-- [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller):Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research;
-- [OAID/Tengine](https://github.com/OAID/Tengine):Tengine is a lite, high performance, modular inference engine for embedded device;
-- [fpeder/espresso](https://github.com/fpeder/espresso):Efficient forward propagation for BCNNs;
-- [Tensorflow lite](https://tensorflow.google.cn/lite):TensorFlow Lite is an open source deep learning framework for on-device inference.;&nbsp;&nbsp;
-- [pytorch-tensor-decompositions](https://github.com/jacobgil/pytorch-tensor-decompositions):PyTorch implementation of [1412.6553] and [1511.06530] tensor decomposition methods for convolutional layers;
-- [tensorflow/quantize](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/quantize#quantized-accuracy-results)
-- [mxnet/quantization](https://github.com/apache/incubator-mxnet/tree/master/example/quantization)
-- [TensoRT4-Example](https://github.com/YunYang1994/TensoRT4-Example)  
-- [NAF-tensorflow](https://github.com/carpedm20/NAF-tensorflow):"Continuous Deep Q-Learning with Model-based Acceleration" in TensorFlow;
+- [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt):&nbsp;&nbsp;Programmable Inference Accelerator;&nbsp;&nbsp;
+- [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow):&nbsp;&nbsp;An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications;
+- [dmlc/tvm](https://github.com/dmlc/tvm):&nbsp;&nbsp;Open deep learning compiler stack for cpu, gpu and specialized accelerators;
+- [Tencent/ncnn](https://github.com/Tencent/ncnn):&nbsp;&nbsp;ncnn is a high-performance neural network inference framework optimized for the mobile platform;
+- [pytorch/glow](https://github.com/pytorch/glow):&nbsp;&nbsp;Compiler for Neural Network hardware accelerators;
+- [NervanaSystems/neon](https://github.com/NervanaSystems/neon):&nbsp;&nbsp;Intel® Nervana™ reference deep learning framework committed to best performance on all hardware;
+- [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller):&nbsp;&nbsp;Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research;
+- [OAID/Tengine](https://github.com/OAID/Tengine):&nbsp;&nbsp;Tengine is a lite, high performance, modular inference engine for embedded device;
+- [fpeder/espresso](https://github.com/fpeder/espresso):&nbsp;&nbsp;Efficient forward propagation for BCNNs;
+- [Tensorflow lite](https://tensorflow.google.cn/lite):&nbsp;&nbsp;TensorFlow Lite is an open source deep learning framework for on-device inference.;&nbsp;&nbsp;
+- [pytorch-tensor-decompositions](https://github.com/jacobgil/pytorch-tensor-decompositions):&nbsp;&nbsp;PyTorch implementation of [1412.6553] and [1511.06530] tensor decomposition methods for convolutional layers;
+- [tensorflow/quantize](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/quantize#quantized-accuracy-results):&nbsp;&nbsp;
+- [mxnet/quantization](https://github.com/apache/incubator-mxnet/tree/master/example/quantization):&nbsp;&nbsp;This folder contains examples of quantizing a FP32 model with Intel® MKL-DNN or CUDNN.
+- [TensoRT4-Example](https://github.com/YunYang1994/TensoRT4-Example):&nbsp;&nbsp;
+- [NAF-tensorflow](https://github.com/carpedm20/NAF-tensorflow):&nbsp;&nbsp;"Continuous Deep Q-Learning with Model-based Acceleration" in TensorFlow;
