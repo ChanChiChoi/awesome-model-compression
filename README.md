@@ -270,8 +270,13 @@ also, some papers and links collected from below, they are all awesome resources
 
 ---
 ### Projects
+     
+- [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt)       
+- **[Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) **
+- [dmlc/tv](https://github.com/dmlc/tvm)
+- [Tencent/ncnn](https://github.com/Tencent/ncnn)
+- [pytorch/glow](https://github.com/pytorch/glow)
+- [NervanaSystems/neon](https://github.com/NervanaSystems/neon)
 
 - [NAF-tensorflow](https://github.com/carpedm20/NAF-tensorflow)     
-- [TensoRT4-Example](https://github.com/YunYang1994/TensoRT4-Example)      
-- [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt)       
-- **[PocketFlow](https://github.com/Tencent/PocketFlow) **
+- [TensoRT4-Example](https://github.com/YunYang1994/TensoRT4-Example) 
