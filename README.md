@@ -271,7 +271,8 @@ also, some papers and links collected from below, they are all awesome resources
 ---
 ### Projects
      
-- [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt);&nbsp;&nbsp;[TensoRT4-Example](https://github.com/YunYang1994/TensoRT4-Example)     
+- [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt):Programmable Inference Accelerator;&nbsp;&nbsp;
+- [TensoRT4-Example](https://github.com/YunYang1994/TensoRT4-Example)     
 - [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) 
 - [dmlc/tvm](https://github.com/dmlc/tvm)
 - [Tencent/ncnn](https://github.com/Tencent/ncnn)
