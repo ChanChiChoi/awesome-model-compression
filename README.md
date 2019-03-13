@@ -271,11 +271,16 @@ also, some papers and links collected from below, they are all awesome resources
 ---
 ### Projects
      
-- [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt)       
+- [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt);&nbsp;&nbsp;[TensoRT4-Example](https://github.com/YunYang1994/TensoRT4-Example)     
 - [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) 
 - [dmlc/tvm](https://github.com/dmlc/tvm)
 - [Tencent/ncnn](https://github.com/Tencent/ncnn)
 - [pytorch/glow](https://github.com/pytorch/glow)
 - [NervanaSystems/neon](https://github.com/NervanaSystems/neon)
+- [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller)
+- [OAID/Tengine](https://github.com/OAID/Tengine)
+- [fpeder/espresso](https://github.com/fpeder/espresso)
 - [NAF-tensorflow](https://github.com/carpedm20/NAF-tensorflow)     
-- [TensoRT4-Example](https://github.com/YunYang1994/TensoRT4-Example) 
+- [pytorch-tensor-decompositions](https://github.com/jacobgil/pytorch-tensor-decompositions)
+- [Tensorflow lite](https://tensorflow.google.cn/lite);&nbsp;&nbsp;[tensorflow/quantize](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/quantize#quantized-accuracy-results)
+- [mxnet/quantization](https://github.com/apache/incubator-mxnet/tree/master/example/quantization)
