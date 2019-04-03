@@ -267,6 +267,10 @@ also, some papers and links collected from below, they are all awesome resources
 ### 2019
 - Yuheng Bu, Weihao Gao, Shaofeng Zou, Venugopal V. Veeravalli .[Information-Theoretic Understanding of Population Risk Improvement with Model Compression](https://arxiv.org/pdf/1901.09421) .[J] arXiv preprint arXiv:1901.09421.
 - Valentin Khrulkov, Oleksii Hrinchuk, Leyla Mirvakhabova, Ivan Oseledets .[Tensorized Embedding Layers for Efficient Model Compression](https://arxiv.org/pdf/1901.10787) .[J] arXiv preprint arXiv:1901.10787.
+- Jie Zhang, Xiaolong Wang, Dawei Li, Shalini Ghosh, Abhishek Kolagunda, Yalin Wang .[MICIK: MIning Cross-Layer Inherent Similarity Knowledge for Deep Model Compression](https://arxiv.org/pdf/1902.00918) .[J] arXiv preprint arXiv:1902.00918.
+- Artem M. Grachev, Dmitry I. Ignatov, Andrey V. Savchenko .[Compression of Recurrent Neural Networks for Efficient Language Modeling](https://arxiv.org/pdf/1902.02380) .[J] arXiv preprint arXiv:1902.02380.
+- Shupeng Gui (1), Haotao Wang (2), Chen Yu (1), Haichuan Yang (1), Zhangyang Wang (2), Ji Liu (1) ((1) University of Rochester, (2) Texas A&M University)     .[Adversarially Trained Model Compression: When Robustness Meets Efficiency](https://arxiv.org/pdf/1902.03538) .[J] arXiv preprint arXiv:1902.03538.
+- Sijia Chen, Bin Song, Xiaojiang Du, Nadra Guizani .[Structured Bayesian Compression for Deep models in mobile enabled devices for connected healthcare](https://arxiv.org/pdf/1902.05429) .[J] arXiv preprint arXiv:1902.05429.
 
 ---
 ### Projects
