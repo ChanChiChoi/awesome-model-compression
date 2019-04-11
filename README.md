@@ -285,6 +285,7 @@ also, some papers and links collected from below, they are all awesome resources
 - [OAID/Tengine](https://github.com/OAID/Tengine):&nbsp;&nbsp;Tengine is a lite, high performance, modular inference engine for embedded device;
 - [fpeder/espresso](https://github.com/fpeder/espresso):&nbsp;&nbsp;Efficient forward propagation for BCNNs;
 - [Tensorflow lite](https://tensorflow.google.cn/lite):&nbsp;&nbsp;TensorFlow Lite is an open source deep learning framework for on-device inference.;&nbsp;&nbsp;
+- [Core ML](https://developer.apple.com/documentation/coreml/reducing_the_size_of_your_core_ml_app):&nbsp;&nbsp;Reduce the storage used by the Core ML model inside your app bundle;  
 - [pytorch-tensor-decompositions](https://github.com/jacobgil/pytorch-tensor-decompositions):&nbsp;&nbsp;PyTorch implementation of [1412.6553] and [1511.06530] tensor decomposition methods for convolutional layers;
 - [tensorflow/quantize](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/quantize#quantized-accuracy-results):&nbsp;&nbsp;
 - [mxnet/quantization](https://github.com/apache/incubator-mxnet/tree/master/example/quantization):&nbsp;&nbsp;This folder contains examples of quantizing a FP32 model with Intel® MKL-DNN or CUDNN.
