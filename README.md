@@ -248,7 +248,7 @@ also, some papers and links collected from below, they are all awesome resources
 - Qi Liu, Tao Liu, Zihao Liu, Yanzhi Wang, Yier Jin, Wujie Wen .[Security Analysis and Enhancement of Model Compressed Deep Learning  Systems under Adversarial Attacks](https://arxiv.org/pdf/1802.05193) .[J] arXiv preprint arXiv:1802.05193.
 - 【Distillation】Antonio Polino, Razvan Pascanu, Dan Alistarh .[Model compression via distillation and quantization](https://arxiv.org/pdf/1802.05668) .[J] arXiv preprint arXiv:1802.05668
 - 【Structure】Xingyu Liu, Jeff Pool, Song Han, William J. Dally .[Efficient Sparse-Winograd Convolutional Neural Networks](https://arxiv.org/pdf/1802.06367) .[J] arXiv preprint arXiv:1802.06367
-- Krishnamoorthi R . [Quantizing deep convolutional networks for efficient inference: A whitepaper]((https://arxiv.org/pdf/1806.08342))[J]. arXiv preprint arXiv:1806.08342.
+- Krishnamoorthi R . [Quantizing deep convolutional networks for efficient inference: A whitepaper](https://arxiv.org/pdf/1806.08342)[J]. arXiv preprint arXiv:1806.08342.
 - Grant P. Strimel, Kanthashree Mysore Sathyendra, Stanislav Peshterliev .[Statistical Model Compression for Small-Footprint Natural Language  Understanding](https://arxiv.org/pdf/1807.07520) .[J] arXiv preprint arXiv:1807.07520.
 - Ini Oguntola, Subby Olubeko, Christopher Sweeney .[SlimNets: An Exploration of Deep Model Compression and Acceleration](https://arxiv.org/pdf/1808.00496) .[J] arXiv preprint arXiv:1808.00496.
 - 【Structure】Huasong Zhong, Xianggen Liu, Yihui He, Yuchun Ma .[Shift-based Primitives for Efficient Convolutional Neural Networks](https://arxiv.org/pdf/1809.08458) .[J] arXiv preprint arXiv:1809.08458
