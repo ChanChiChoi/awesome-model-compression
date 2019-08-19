@@ -272,6 +272,23 @@ also, some papers and links collected from below, they are all awesome resources
 - Artem M. Grachev, Dmitry I. Ignatov, Andrey V. Savchenko .[Compression of Recurrent Neural Networks for Efficient Language Modeling](https://arxiv.org/pdf/1902.02380) .[J] arXiv preprint arXiv:1902.02380.
 - Shupeng Gui (1), Haotao Wang (2), Chen Yu (1), Haichuan Yang (1), Zhangyang Wang (2), Ji Liu (1) ((1) University of Rochester, (2) Texas A&M University)     .[Adversarially Trained Model Compression: When Robustness Meets Efficiency](https://arxiv.org/pdf/1902.03538) .[J] arXiv preprint arXiv:1902.03538.
 - Sijia Chen, Bin Song, Xiaojiang Du, Nadra Guizani .[Structured Bayesian Compression for Deep models in mobile enabled devices for connected healthcare](https://arxiv.org/pdf/1902.05429) .[J] arXiv preprint arXiv:1902.05429.
+- Ze Yang, Linjun Shou, Ming Gong, Wutao Lin, Daxin Jiang .[Model Compression with Multi-Task Knowledge Distillation for Web-scale Question Answering System](https://arxiv.org/pdf/1904.09636) .[J] arXiv preprint arXiv:1904.09636.
+- Bowen Shi, Ming Sun, Chieh-Chi Kao, Viktor Rozgic, Spyros Matsoukas, Chao Wang .[Compression of Acoustic Event Detection Models with Low-rank Matrix Factorization and Quantization Training](https://arxiv.org/pdf/1905.00855) .[J] arXiv preprint arXiv:1905.00855.
+- Yiwu Yao, Weiqiang Yang, Haoqi Zhu .[Creating Lightweight Object Detectors with Model Compression for Deployment on Edge Devices](https://arxiv.org/pdf/1905.01787) .[J] arXiv preprint arXiv:1905.01787.
+- Bin Yang, Lin Yang, Xiaochun Li, Wenhan Zhang, Hua Zhou, Yequn Zhang, Yongxiong Ren, Yinbo Shi .[2-bit Model Compression of Deep Convolutional Neural Network on ASIC Engine for Image Retrieval](https://arxiv.org/pdf/1905.03362) .[J] arXiv preprint arXiv:1905.03362.
+- Pravendra Singh, Vinay Kumar Verma, Piyush Rai, Vinay P. Namboodiri .[Play and Prune: Adaptive Filter Pruning for Deep Model Compression](https://arxiv.org/pdf/1905.04446) .[J] arXiv preprint arXiv:1905.04446.
+- Kartikeya Bhardwaj, Naveen Suda, Radu Marculescu .[Dream Distillation: A Data-Independent Model Compression Framework](https://arxiv.org/pdf/1905.07072) .[J] arXiv preprint arXiv:1905.07072.
+- Jayashree Karlekar, Jiashi Feng, Zi Sian Wong, Sugiri Pranata .[Deep Face Recognition Model Compression via Knowledge Transfer and Distillation](https://arxiv.org/pdf/1906.00619) .[J] arXiv preprint arXiv:1906.00619.
+- Yasutoshi Ida, Yasuhiro Fujiwara .[Network Implosion: Effective Model Compression for ResNets via Static Layer Pruning and Retraining](https://arxiv.org/pdf/1906.03826) .[J] arXiv preprint arXiv:1906.03826.
+- Deniz Oktay, Johannes Ballé, Saurabh Singh, Abhinav Shrivastava .[Model Compression by Entropy Penalized Reparameterization](https://arxiv.org/pdf/1906.06624) .[J] arXiv preprint arXiv:1906.06624.
+- Wenxiao Wang, Cong Fu, Jishun Guo, Deng Cai, Xiaofei He .[COP: Customized Deep Model Compression via Regularized Correlation-Based Filter-Level Pruning](https://arxiv.org/pdf/1906.10337) .[J] arXiv preprint arXiv:1906.10337.
+- Bowen Shi, Ming Sun, Chieh-Chi Kao, Viktor Rozgic, Spyros Matsoukas, Chao Wang .[Compression of Acoustic Event Detection Models With Quantized Distillation](https://arxiv.org/pdf/1907.00873) .[J] arXiv preprint arXiv:1907.00873.
+- Łukasz Dudziak, Mohamed S. Abdelfattah, Ravichander Vipperla, Stefanos Laskaridis, Nicholas D. Lane .[ShrinkML: End-to-End ASR Model Compression Using Reinforcement Learning](https://arxiv.org/pdf/1907.03540) .[J] arXiv preprint arXiv:1907.03540.
+- Daquan Zhou, Xiaojie Jin, Kaixin Wang, Jianchao Yang, Jiashi Feng .[Deep Model Compression via Filter Auto-sampling](https://arxiv.org/pdf/1907.05642) .[J] arXiv preprint arXiv:1907.05642.
+- Zhenhui Xu, Guolin Ke, Jia Zhang, Jiang Bian, Tie-Yan Liu .[Light Multi-segment Activation for Model Compression](https://arxiv.org/pdf/1907.06870) .[J] arXiv preprint arXiv:1907.06870.
+- Ning Wang, Wengang Zhou, Yibing Song, Chao Ma, Houqiang Li .[Real-Time Correlation Tracking via Joint Model Compression and Transfer](https://arxiv.org/pdf/1907.09831) .[J] arXiv preprint arXiv:1907.09831.
+- Kartikeya Bhardwaj, Chingyi Lin, Anderson Sartor, Radu Marculescu .[Memory- and Communication-Aware Model Compression for Distributed Deep Learning Inference on IoT](https://arxiv.org/pdf/1907.11804) .[J] arXiv preprint arXiv:1907.11804.
+
 
 ---
 ### Projects
