@@ -309,3 +309,6 @@ also, some papers and links collected from below, they are all awesome resources
 - [mxnet/quantization](https://github.com/apache/incubator-mxnet/tree/master/example/quantization):&nbsp;&nbsp;This folder contains examples of quantizing a FP32 model with Intel® MKL-DNN or CUDNN.
 - [TensoRT4-Example](https://github.com/YunYang1994/TensoRT4-Example):&nbsp;&nbsp;
 - [NAF-tensorflow](https://github.com/carpedm20/NAF-tensorflow):&nbsp;&nbsp;"Continuous Deep Q-Learning with Model-based Acceleration" in TensorFlow;
+
+
+keyword：compress prun accelera distill binarization 'low rank' quantization
