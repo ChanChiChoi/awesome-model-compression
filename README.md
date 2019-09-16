@@ -23,6 +23,10 @@ also, some papers and links collected from below, they are all awesome resources
 - [intro&papers][Tianyu-Hua/ModelCompression](https://github.com/Tianyu-Hua/ModelCompression)
 - [others&Model Compression][guan-yuan/awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
 - [resources][handong1587/cnn-compression-acceleration](https://handong1587.github.io/deep_learning/2015/10/09/cnn-compression-acceleration.html)
+- [papers][juliagusak/model-compression-and-acceleration-progress](https://github.com/juliagusak/model-compression-and-acceleration-progress)
+- [papers][Hyungjun-K1m/Neural-Network-Compression](https://github.com/Hyungjun-K1m/Neural-Network-Compression)
+- [papers&codes][he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
+- [papers][lhyfst/knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers)
 
 ---
 ### 1990
@@ -756,4 +760,7 @@ also, some papers and links collected from below, they are all awesome resources
 - [NAF-tensorflow](https://github.com/carpedm20/NAF-tensorflow):&nbsp;&nbsp;"Continuous Deep Q-Learning with Model-based Acceleration" in TensorFlow;
 
 
+---
+### others
+- [bhavanajain/research-paper-summaries](https://github.com/bhavanajain/research-paper-summaries)
 keyword：compress prun accelera distill binarization 'low rank' quantization
