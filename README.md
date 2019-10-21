@@ -800,5 +800,5 @@ also, some papers and links collected from below, they are all awesome resources
 
 ---
 ### others
-- [bhavanajain/research-paper-summaries](https://github.com/bhavanajain/research-paper-summaries)
+- [bhavanajain/research-paper-summaries](https://github.com/bhavanajain/research-paper-summaries)  
 keyword：compress prun accelera distill binarization 'low rank' quantization
