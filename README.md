@@ -737,6 +737,44 @@ also, some papers and links collected from below, they are all awesome resources
 - Geng Yuan, Xiaolong Ma, Caiwen Ding, Sheng Lin, Tianyun Zhang, Zeinab S. Jalali, Yilong Zhao, Li Jiang, Sucheta Soundarajan, Yanzhi Wang .[An Ultra-Efficient Memristor-Based DNN Framework with Structured Weight Pruning and Quantization Using ADMM](https://arxiv.org/pdf/1908.11691) .[J] arXiv preprint arXiv:1908.11691.
 - Yuke Wang, Boyuan Feng, Gushu Li, Lei Deng, Yuan Xie, Yufei Ding .[AccD: A Compiler-based Framework for Accelerating Distance-related Algorithms on CPU-FPGA Platforms](https://arxiv.org/pdf/1908.11781) .[J] arXiv preprint arXiv:1908.11781.
 - Sudarshan Srinivasan, Pradeep Janedula, Saurabh Dhoble, Sasikanth Avancha, Dipankar Das, Naveen Mellempudi, Bharat Daga, Martin Langhammer, Gregg Baeckler, Bharat Kaul .[High Performance Scalable FPGA Accelerator for Deep Neural Networks](https://arxiv.org/pdf/1908.11809) .[J] arXiv preprint arXiv:1908.11809.
+- Amey Agrawal, Rohit Karlupia .[Learning Digital Circuits: A Journey Through Weight Invariant Self-Pruning Neural Networks](https://arxiv.org/pdf/1909.00052) .[J] arXiv preprint arXiv:1909.00052.
+- Lei He .[EnGN: A High-Throughput and Energy-Efficient Accelerator for Large Graph Neural Networks](https://arxiv.org/pdf/1909.00155) .[J] arXiv preprint arXiv:1909.00155.
+- Ye Yu, Niraj K. Jha .[SPRING: A Sparsity-Aware Reduced-Precision Monolithic 3D CNN Accelerator Architecture for Training and Inference](https://arxiv.org/pdf/1909.00557) .[J] arXiv preprint arXiv:1909.00557.
+- Bharti Munjal, Fabio Galasso, Sikandar Amin .[Knowledge Distillation for End-to-End Person Search](https://arxiv.org/pdf/1909.01058) .[J] arXiv preprint arXiv:1909.01058.
+- Yang Li, Thomas Strohmer .[What Happens on the Edge, Stays on the Edge: Toward Compressive Deep Learning](https://arxiv.org/pdf/1909.01539) .[J] arXiv preprint arXiv:1909.01539.
+- Sungho Shin, Yoonho Boo, Wonyong Sung .[Empirical Analysis of Knowledge Distillation Technique for Optimization of Quantized Deep Neural Networks](https://arxiv.org/pdf/1909.01688) .[J] arXiv preprint arXiv:1909.01688.
+- Chengyi Wang, Shuangzhi Wu, Shujie Liu .[Accelerating Transformer Decoding via a Hybrid of Self-attention and Recurrent Neural Network](https://arxiv.org/pdf/1909.02279) .[J] arXiv preprint arXiv:1909.02279.
+- Yew Ken Chia, Sam Witteveen, Martin Andrews .[Transformer to CNN: Label-scarce distillation for efficient text classification](https://arxiv.org/pdf/1909.03508) .[J] arXiv preprint arXiv:1909.03508.
+- Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue, Qingmin Liao .[LCSCNet: Linear Compressing Based Skip-Connecting Network for Image Super-Resolution](https://arxiv.org/pdf/1909.03573) .[J] arXiv preprint arXiv:1909.03573.
+- Jinlin Liu, Yuan Yao, Jianqiang Ren .[An Acceleration Framework for High Resolution Image Synthesis](https://arxiv.org/pdf/1909.03611) .[J] arXiv preprint arXiv:1909.03611.
+- Shuang Gao, Xin Liu, Lung-Sheng Chien, William Zhang, Jose M. Alvarez .[VACL: Variance-Aware Cross-Layer Regularization for Pruning Deep Residual Networks](https://arxiv.org/pdf/1909.04485) .[J] arXiv preprint arXiv:1909.04485.
+- Ramchalam Kinattinkara Ramakrishnan, Eyyüb Sari, Vahid Partovi Nia .[Differentiable Mask Pruning for Neural Networks](https://arxiv.org/pdf/1909.04567) .[J] arXiv preprint arXiv:1909.04567.
+- Zhaoyang Zeng, Bei Liu, Jianlong Fu, Hongyang Chao, Lei Zhang .[WSOD^2: Learning Bottom-up and Top-down Objectness Distillation for Weakly-supervised Object Detection](https://arxiv.org/pdf/1909.04972) .[J] arXiv preprint arXiv:1909.04972.
+- Xiaolong Ma, Fu-Ming Guo, Wei Niu, Xue Lin, Jian Tang, Kaisheng Ma, Bin Ren, Yanzhi Wang .[PCONV: The Missing but Desirable Sparsity in DNN Weight Pruning for Real-time Execution on Mobile Devices](https://arxiv.org/pdf/1909.05073) .[J] arXiv preprint arXiv:1909.05073.
+- Jiancheng Lyu, Spencer Sheen .[A Channel-Pruned and Weight-Binarized Convolutional Neural Network for Keyword Spotting](https://arxiv.org/pdf/1909.05623) .[J] arXiv preprint arXiv:1909.05623.
+- Mostafa Elhoushi, Ye Henry Tian, Zihao Chen, Farhan Shafiq, Joey Yiwei Li .[Accelerating Training using Tensor Decomposition](https://arxiv.org/pdf/1909.05675) .[J] arXiv preprint arXiv:1909.05675.
+- Sheng Shen, Zhen Dong, Jiayu Ye, Linjian Ma, Zhewei Yao, Amir Gholami, Michael W. Mahoney, Kurt Keutzer .[Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT](https://arxiv.org/pdf/1909.05840) .[J] arXiv preprint arXiv:1909.05840.
+- Shubham Jain, Sumeet Kumar Gupta, Anand Raghunathan .[TiM-DNN: Ternary in-Memory accelerator for Deep Neural Networks](https://arxiv.org/pdf/1909.06892) .[J] arXiv preprint arXiv:1909.06892.
+- Hyoukjun Kwon, Liangzhen Lai, Tushar Krishna, Vikas Chandra .[HERALD: Optimizing Heterogeneous DNN Accelerators for Edge Devices](https://arxiv.org/pdf/1909.07437) .[J] arXiv preprint arXiv:1909.07437.
+- Xiaoyu Yu, Yuwei Wang, Jie Miao, Ephrem Wu, Heng Zhang, Yu Meng, Bo Zhang, Biao Min, Dewei Chen, Jianlin Gao .[A Data-Center FPGA Acceleration Platform for Convolutional Neural Networks](https://arxiv.org/pdf/1909.07973) .[J] arXiv preprint arXiv:1909.07973.
+- Umar Asif, Jianbin Tang, Stefan Harrer .[Ensemble Knowledge Distillation for Learning Improved and Efficient Networks](https://arxiv.org/pdf/1909.08097) .[J] arXiv preprint arXiv:1909.08097.
+- Zhonghui You, Kun Yan, Jinmian Ye, Meng Ma, Ping Wang .[Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/pdf/1909.08174) .[J] arXiv preprint arXiv:1909.08174.
+- Rui Chen, Haizhou Ai, Chong Shang, Long Chen, Zijie Zhuang .[Learning Lightweight Pedestrian Detector with Hierarchical Knowledge Distillation](https://arxiv.org/pdf/1909.09325) .[J] arXiv preprint arXiv:1909.09325.
+- Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, Qun Liu .[TinyBERT: Distilling BERT for Natural Language Understanding](https://arxiv.org/pdf/1909.10351) .[J] arXiv preprint arXiv:1909.10351.
+- Rahim Entezari, Olga Saukh .[Class-dependent Compression of Deep Neural Networks](https://arxiv.org/pdf/1909.10364) .[J] arXiv preprint arXiv:1909.10364.
+- SeongUk Park, Nojun Kwak .[FEED: Feature-level Ensemble for Knowledge Distillation](https://arxiv.org/pdf/1909.10754) .[J] arXiv preprint arXiv:1909.10754.
+- Taiji Suzuki .[Compression based bound for non-compressed network: unified generalization error analysis of large compressible deep neural network](https://arxiv.org/pdf/1909.11274) .[J] arXiv preprint arXiv:1909.11274.
+- Chun Quan, Jun-Gi Jang, Hyun Dong Lee, U Kang .[FALCON: Fast and Lightweight Convolution for Compressing and Accelerating CNN](https://arxiv.org/pdf/1909.11321) .[J] arXiv preprint arXiv:1909.11321.
+- Zhe Xu, Ray C. C. Cheung .[Accurate and Compact Convolutional Neural Networks with Trained Binarization](https://arxiv.org/pdf/1909.11366) .[J] arXiv preprint arXiv:1909.11366.
+- Li Yuan, Francis E.H.Tay, Guilin Li, Tao Wang, Jiashi Feng .[Revisit Knowledge Distillation: a Teacher-free Framework](https://arxiv.org/pdf/1909.11723) .[J] arXiv preprint arXiv:1909.11723.
+- Zheng Hui, Xinbo Gao, Yunchu Yang, Xiumei Wang .[Lightweight Image Super-Resolution with Information Multi-distillation Network](https://arxiv.org/pdf/1909.11856) .[J] arXiv preprint arXiv:1909.11856.
+- Grégoire Morin, Ryan Razani, Vahid Partovi Nia, Eyyüb Sari .[Smart Ternary Quantization](https://arxiv.org/pdf/1909.12205) .[J] arXiv preprint arXiv:1909.12205.
+- Yuang Jiang, Shiqiang Wang, Bong Jun Ko, Wei-Han Lee, Leandros Tassiulas .[Model Pruning Enables Efficient Federated Learning on Edge Devices](https://arxiv.org/pdf/1909.12326) .[J] arXiv preprint arXiv:1909.12326.
+- Yulong Wang, Xiaolu Zhang, Lingxi Xie, Jun Zhou, Hang Su, Bo Zhang, Xiaolin Hu .[Pruning from Scratch](https://arxiv.org/pdf/1909.12579) .[J] arXiv preprint arXiv:1909.12579.
+- Xiaohan Ding, Guiguang Ding, Xiangxin Zhou, Yuchen Guo, Ji Liu, Jungong Han .[Global Sparse Momentum SGD for Pruning Very Deep Neural Networks](https://arxiv.org/pdf/1909.12778) .[J] arXiv preprint arXiv:1909.12778.
+- Jiao Xie, Shaohui Lin, Yichen Zhang, Linkai Luo .[Training convolutional neural networks with cheap convolutions and online distillation](https://arxiv.org/pdf/1909.13063) .[J] arXiv preprint arXiv:1909.13063.
+- Yuhang Li, Xin Dong, Wei Wang .[Additive Powers-of-Two Quantization: A Non-uniform Discretization for Neural Networks](https://arxiv.org/pdf/1909.13144) .[J] arXiv preprint arXiv:1909.13144.
+- Caiwen Ding, Shuo Wang, Ning Liu, Kaidi Xu, Yanzhi Wang, Yun Liang .[REQ-YOLO: A Resource-Aware, Efficient Quantization Framework for Object Detection on FPGAs](https://arxiv.org/pdf/1909.13396) .[J] arXiv preprint arXiv:1909.13396.
 
 
 ---
