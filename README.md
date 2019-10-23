@@ -15,6 +15,7 @@ also, some papers and links collected from below, they are all awesome resources
 - [x][little papers][tejalal/awesome-deep-model-compression](https://github.com/tejalal/awesome-deep-model-compression)
 - [x][papers][cedrickchee/awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression)
 - [x][papers&2years ago&comment][jnjaby/Model-Compression-Acceleration](https://github.com/jnjaby/Model-Compression-Acceleration)
+- [papers][dkozlov/awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 - [conferences][mapleam/model-compression-and-acceleration-4-DNN](https://github.com/mapleam/model-compression-and-acceleration-4-DNN)
 - [papers&2years ago][Xreki/ModelCompression](https://github.com/Xreki/ModelCompression/tree/master/papers)
 - [x][Ref][clhne/model-compression-and-acceleration](https://github.com/clhne/model-compression-and-acceleration)
