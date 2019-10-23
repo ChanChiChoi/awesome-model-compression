@@ -6,7 +6,7 @@ this collecting the papers (main from arxiv.org) about Model compression:
 **Binarization**;   
 **Quantization**;   
 **Pruning**;   
-**Low Rank Approximation**.  
+**Low Rank**.  
 
 also, some papers and links collected from below, they are all awesome resources:  
 - [x][papers][sun254/awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
@@ -61,34 +61,34 @@ also, some papers and links collected from below, they are all awesome resources
 - M. Horowitz. [1.1 computing’s energy problem (and what we can do about it)](https://pdfs.semanticscholar.org/9476/20a1854655ed91a86b90d12695e05be85983.pdf). In Solid-State Circuits Conference Digest of Technical Papers, pages 10–14, 2014. 
 - Y. Chen, N. Sun, O. Temam, T. Luo, S. Liu, S. Zhang, L. He, J.Wang, L. Li, and T. Chen. [Dadiannao: A machinelearning supercomputer](http://pages.saclay.inria.fr/olivier.temam/files/eval/supercomputer.pdf). In Ieee/acm International Symposium on Microarchitecture, pages 609–622, 2014.
 - 【Distillation】Hinton, Geoffrey, Oriol Vinyals, and Jeff Dean. [Dark knowledge](http://www.ttic.edu/dl/dark14.pdf) .[C]Presented as the keynote in BayLearn 2 (2014).
-- 【Low Rank Approximation】Jaderberg, Max, Andrea Vedaldi, and Andrew Zisserman. [Speeding up convolutional neural networks with low rank expansions](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14b/jaderberg14b.pdf) .[J] arXiv preprint arXiv:1405.3866 (2014).
-- 【Low Rank Approximation】Emily Denton, Wojciech Zaremba, Joan Bruna, Yann LeCun, Rob Fergus .[Exploiting Linear Structure Within Convolutional Networks for Efficient  Evaluation](https://arxiv.org/pdf/1404.00736) .[J] arXiv preprint arXiv:1404.00736
-- 【Low Rank Approximation】Xiangyu Zhang, Jianhua Zou, Xiang Ming, Kaiming He, Jian Sun .[Efficient and Accurate Approximations of Nonlinear Convolutional  Networks](https://arxiv.org/pdf/1411.04229) .[J] arXiv preprint arXiv:1411.04229
+- 【Low Rank】Jaderberg, Max, Andrea Vedaldi, and Andrew Zisserman. [Speeding up convolutional neural networks with low rank expansions](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14b/jaderberg14b.pdf) .[J] arXiv preprint arXiv:1405.3866 (2014).
+- 【Low Rank】Emily Denton, Wojciech Zaremba, Joan Bruna, Yann LeCun, Rob Fergus .[Exploiting Linear Structure Within Convolutional Networks for Efficient  Evaluation](https://arxiv.org/pdf/1404.00736) .[J] arXiv preprint arXiv:1404.00736
+- 【Low Rank】Xiangyu Zhang, Jianhua Zou, Xiang Ming, Kaiming He, Jian Sun .[Efficient and Accurate Approximations of Nonlinear Convolutional  Networks](https://arxiv.org/pdf/1411.04229) .[J] arXiv preprint arXiv:1411.04229
 - 【Structure】 Jin J, Dundar A, Culurciello E. [Flattened convolutional neural networks for feedforward acceleration](https://arxiv.org/pdf/1412.5474) .[J]. arXiv preprint arXiv:1412.5474, 2014.
 - 【Quantization】Yunchao Gong, Liu Liu, Ming Yang, Lubomir Bourdev .[Compressing Deep Convolutional Networks using Vector Quantization](https://arxiv.org/pdf/1412.06115) .[J] arXiv preprint arXiv:1412.06115
 - 【Distillation】driana Romero, Nicolas Ballas, Samira Ebrahimi Kahou, Antoine Chassang, Carlo Gatta, Yoshua Bengio .[FitNets: Hints for Thin Deep Nets](https://arxiv.org/pdf/1412.06550) .[J] arXiv preprint arXiv:1412.06550
-- 【Low Rank Approximation】 Lebedev V, Ganin Y, Rakhuba M, et al. [Speeding-up convolutional neural networks using fine-tuned cp-decomposition](https://arxiv.org/pdf/1412.6553) .[J]. arXiv preprint arXiv:1412.6553, 2014.
+- 【Low Rank】 Lebedev V, Ganin Y, Rakhuba M, et al. [Speeding-up convolutional neural networks using fine-tuned cp-decomposition](https://arxiv.org/pdf/1412.6553) .[J]. arXiv preprint arXiv:1412.6553, 2014.
 
 ### 2015
 - Zhang. [Optimizing fpga-based accelerator design for deep convolutional neural networks.] In Proceedings of the 2015 ACM/SIGDA International Symposium on Field- Programmable Gate Arrays, FPGA ’15, 2015. 
 - M. Courbariaux, Y. Bengio, and J.-P. David. [Binaryconnect: Training deep neural networks with binary weights during propagations](http://papers.nips.cc/paper/5647-binaryconnect-training-deep-neural-networks-with-binary-weights-during-propagations.pdf). In Advances in Neural Information Processing Systems, pages 3123–3131, 2015.
 - 【System】Lane, Nicholas D., et al. [An Early Resource Characterization of Deep Learning on Wearables, Smartphones and Internet-of-Things Devices](http://niclane.org/pubs/iotapp15_early.pdf) .[C]Proceedings of the 2015 international workshop on internet of things towards applications. ACM, 2015.
 - Han, Song, et al. [Learning both weights and connections for efficient neural network](http://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network) .[C] Advances in neural information processing systems. 2015.
-- 【Low Rank Approximation】 Yang Z, Moczulski M, Denil M, et al. [Deep fried convnets](http://openaccess.thecvf.com/content_iccv_2015/papers/Yang_Deep_Fried_Convnets_ICCV_2015_paper.pdf) .[C]//Proceedings of the IEEE International Conference on Computer Vision. 2015: 1476-1483.
+- 【Low Rank】 Yang Z, Moczulski M, Denil M, et al. [Deep fried convnets](http://openaccess.thecvf.com/content_iccv_2015/papers/Yang_Deep_Fried_Convnets_ICCV_2015_paper.pdf) .[C]//Proceedings of the IEEE International Conference on Computer Vision. 2015: 1476-1483.
 - 【Structure】 He K, Sun J. [Convolutional neural networks at constrained time cost](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/He_Convolutional_Neural_Networks_2015_CVPR_paper.pdf) .[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 5353-5360.
 - 【Quantization】 Courbariaux, Matthieu, Yoshua Bengio, and Jean-Pierre David. [Binaryconnect: Training deep neural networks with binary weights during propagations.](http://papers.nips.cc/paper/5647-binaryconnect-training-deep-neural-networks-with-binary-weights-during-propagations.pdf) Advances in neural information processing systems. 2015.
 - 【Quantization】Suyog Gupta, Ankur Agrawal, Kailash Gopalakrishnan, Pritish Narayanan .[Deep Learning with Limited Numerical Precision](https://arxiv.org/pdf/1502.02551) .[J] arXiv preprint arXiv:1502.02551
 - 【Distillation】Geoffrey Hinton, Oriol Vinyals, Jeff Dean .[Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531) .[J] arXiv preprint arXiv:1503.02531
 - Z. Cheng, D. Soudry, Z. Mao, and Z. Lan. [Training binary multilayer neural networks for image classification using expectation backpropagation](https://arxiv.org/pdf/1503.03562). arXiv preprint arXiv:1503.03562, 2015. 
-- 【Low Rank Approximation】Xiangyu Zhang, Jianhua Zou, Kaiming He, Jian Sun .[Accelerating Very Deep Convolutional Networks for Classification and  Detection](https://arxiv.org/pdf/1505.06798) .[J] arXiv preprint arXiv:1505.06798
+- 【Low Rank】Xiangyu Zhang, Jianhua Zou, Kaiming He, Jian Sun .[Accelerating Very Deep Convolutional Networks for Classification and  Detection](https://arxiv.org/pdf/1505.06798) .[J] arXiv preprint arXiv:1505.06798
 - 【Pruning】Song Han, Jeff Pool, John Tran, William J. Dally .[Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/pdf/1506.02626) .[J] arXiv preprint arXiv:1506.02626
 - Srinivas, Suraj, and R. Venkatesh Babu. [Data-free parameter pruning for deep neural networks](https://arxiv.org/abs/1507.06149) .[J] arXiv preprint arXiv:1507.06149
 - 【Pruning】Song Han, Huizi Mao, William J. Dally .[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained  Quantization and Huffman Coding](https://arxiv.org/pdf/1510.00149) .[J] arXiv preprint arXiv:1510.00149
 - Z. Lin, M. Courbariaux, R. Memisevic, and Y. Bengio. [Neural networks with few multiplications](https://arxiv.org/pdf/1510.03009). arXiv preprint arXiv:1510.03009, 2015. 
 - T. Dettmers. [8-bit approximations for parallelism in deep learning](https://arxiv.org/pdf/1511.04561). arXiv preprint arXiv:1511.04561, 2015. 
 - 【Distillation】Tianqi Chen, Ian Goodfellow, Jonathon Shlens .[Net2Net: Accelerating Learning via Knowledge Transfer](https://arxiv.org/pdf/1511.05641) .[J] arXiv preprint arXiv:1511.05641
-- 【Low Rank Approximation】Cheng Tai, Tong Xiao, Yi Zhang, Xiaogang Wang, Weinan E .[Convolutional neural networks with low-rank regularization](https://arxiv.org/pdf/1511.06067) .[J] arXiv preprint arXiv:1511.06067
-- 【Low Rank Approximation】Yong-Deok Kim, Eunhyeok Park, Sungjoo Yoo, Taelim Choi, Lu Yang, Dongjun Shin .[Compression of Deep Convolutional Neural Networks for Fast and Low Power  Mobile Applications](https://arxiv.org/pdf/1511.06530) .[J] arXiv preprint arXiv:1511.06530
+- 【Low Rank】Cheng Tai, Tong Xiao, Yi Zhang, Xiaogang Wang, Weinan E .[Convolutional neural networks with low-rank regularization](https://arxiv.org/pdf/1511.06067) .[J] arXiv preprint arXiv:1511.06067
+- 【Low Rank】Yong-Deok Kim, Eunhyeok Park, Sungjoo Yoo, Taelim Choi, Lu Yang, Dongjun Shin .[Compression of Deep Convolutional Neural Networks for Fast and Low Power  Mobile Applications](https://arxiv.org/pdf/1511.06530) .[J] arXiv preprint arXiv:1511.06530
 - 【System】Seyyed Salar Latifi Oskouei, Hossein Golestani, Matin Hashemi, Soheil Ghiasi .[CNNdroid: GPU-Accelerated Execution of Trained Deep Convolutional Neural  Networks on Android](https://arxiv.org/pdf/1511.07376) .[J] arXiv preprint arXiv:1511.07376
 - 【Structure】mjad Almahairi, Nicolas Ballas, Tim Cooijmans, Yin Zheng, Hugo Larochelle, Aaron Courville .[Dynamic Capacity Networks](https://arxiv.org/pdf/1511.07838) .[J] arXiv preprint arXiv:1511.07838
 - 【Quantization】Sungho Shin, Kyuyeon Hwang, Wonyong Sung .[Fixed-Point Performance Analysis of Recurrent Neural Networks](https://arxiv.org/pdf/1512.01322) .[J] arXiv preprint arXiv:1512.01322
@@ -202,7 +202,7 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Quantization】Zhaowei Cai, Xiaodong He, Jian Sun, Nuno Vasconcelos .[Deep Learning with Low Precision by Half-wave Gaussian Quantization](https://arxiv.org/pdf/1702.00953) .[J] arXiv preprint arXiv:1702.00953
 - 【Quantization】 Zhou, Aojun, et al. [Incremental network quantization: Towards lossless cnns with low-precision weights.](https://arxiv.org/pdf/1702.03044.pdf) arXiv preprint arXiv:1702.03044 (2017).
 - 【Pruning】Karen Ullrich, Edward Meeds, Max Welling .[Soft Weight-Sharing for Neural Network Compression](https://arxiv.org/pdf/1702.04008) .[J] arXiv preprint arXiv:1702.04008
-- 【Low Rank Approximation】Wei Wen, Cong Xu, Chunpeng Wu, Yandan Wang, Yiran Chen, Hai Li .[Coordinating Filters for Faster Deep Neural Networks](https://arxiv.org/pdf/1703.09746) .[J] arXiv preprint arXiv:1703.09746
+- 【Low Rank】Wei Wen, Cong Xu, Chunpeng Wu, Yandan Wang, Yiran Chen, Hai Li .[Coordinating Filters for Faster Deep Neural Networks](https://arxiv.org/pdf/1703.09746) .[J] arXiv preprint arXiv:1703.09746
 - 【Structure】Wei Wen, Cong Xu, Chunpeng Wu, Yandan Wang, Yiran Chen, Hai Li .[Coordinating Filters for Faster Deep Neural Networks](https://arxiv.org/pdf/1703.09746) .[J] arXiv preprint arXiv:1703.09746
 - 【Structure】ndrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam .[MobileNets: Efficient Convolutional Neural Networks for Mobile Vision  Applications](https://arxiv.org/pdf/1704.04861) .[J] arXiv preprint arXiv:1704.04861
 - 【Structure】Fei Wang, Mengqing Jiang, Chen Qian, Shuo Yang, Cheng Li, Honggang Zhang, Xiaogang Wang, Xiaoou Tang .[Residual Attention Network for Image Classification](https://arxiv.org/pdf/1704.06904) .[J] arXiv preprint arXiv:1704.06904
@@ -240,7 +240,7 @@ also, some papers and links collected from below, they are all awesome resources
 - 【System】Stylianos I. Venieris, Christos-Savvas Bouganis .[fpgaConvNet: A Toolflow for Mapping Diverse Convolutional Neural  Networks on Embedded FPGAs](https://arxiv.org/pdf/1711.08740) .[J] arXiv preprint arXiv:1711.08740
 - 【Structure】Gao Huang, Shichen Liu, Laurens van der Maaten, Kilian Q. Weinberger .[CondenseNet: An Efficient DenseNet using Learned Group Convolutions](https://arxiv.org/pdf/1711.09224) .[J] arXiv preprint arXiv:1711.09224
 - [Learning Sparse Neural Networks through L0 Regularization](https://arxiv.org/abs/1712.01312) .[J] arXiv preprint arXiv:1711.01312
-- 【Low Rank Approximation】ndrew Tulloch, Yangqing Jia .[High performance ultra-low-precision convolutions on mobile devices](https://arxiv.org/pdf/1712.02427) .[J] arXiv preprint arXiv:1712.02427
+- 【Low Rank】ndrew Tulloch, Yangqing Jia .[High performance ultra-low-precision convolutions on mobile devices](https://arxiv.org/pdf/1712.02427) .[J] arXiv preprint arXiv:1712.02427
 - 【Quantization】Benoit Jacob, Skirmantas Kligys, Bo Chen, Menglong Zhu, Matthew Tang, Andrew Howard, Hartwig Adam, Dmitry Kalenichenko .[Quantization and Training of Neural Networks for Efficient  Integer-Arithmetic-Only Inference](https://arxiv.org/pdf/1712.05877) .[J] arXiv preprint arXiv:1712.05877
 
 ### 2018
