@@ -10,7 +10,7 @@ this collecting the papers (main from arxiv.org) about Model compression:
 
 also, some papers and links collected from below, they are all awesome resources:  
 - [x][papers][sun254/awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
-- [papers][dkozlov/awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
+- [x][papers][dkozlov/awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 - [x][papers&ref][memoiry/Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
 - [x][papers][chester256/Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers)
 - [x][papers][cedrickchee/awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression)
