@@ -20,7 +20,7 @@ also, some papers and links collected from below, they are all awesome resources
 - [others&papers&codes&projects&blogs][guan-yuan/awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
 - [x][papers][mrgloom/Network-Speed-and-Compression](https://github.com/mrgloom/Network-Speed-and-Compression)
 - [papers&codes&projects&blogs][handong1587/cnn-compression-acceleration](https://handong1587.github.io/deep_learning/2015/10/09/cnn-compression-acceleration.html)
-- [papers][ZhishengWang/Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
+- [papers&hardware][ZhishengWang/Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
 - [papers&hardware][fengbintu/Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 - [papers&codes][juliagusak/model-compression-and-acceleration-progress](https://github.com/juliagusak/model-compression-and-acceleration-progress)
 - [papers][ljk628/ML-Systems](https://github.com/ljk628/ML-Systems)
