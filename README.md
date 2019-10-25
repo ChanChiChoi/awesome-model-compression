@@ -26,7 +26,7 @@ also, some papers and links collected from below, they are all awesome resources
 - [papers][ljk628/ML-Systems](https://github.com/ljk628/ML-Systems)
 - [papers&codes][Hyungjun-K1m/Neural-Network-Compression](https://github.com/Hyungjun-K1m/Neural-Network-Compression)
 - [papers&codes][he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
-- [papers][lhyfst/knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers)
+- [x][papers][lhyfst/knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers)
 - [papers&codes][AojunZhou/Efficient-Deep-Learning](https://github.com/AojunZhou/Efficient-Deep-Learning)
 - [intro&papers&codes&blogs][Ewenwan/MVision/CNN/Deep_Compression](https://github.com/Ewenwan/MVision/tree/master/CNN/Deep_Compression)
 - [intro&blogs][Ewenwan/MVision/quantization](https://github.com/Ewenwan/MVision/tree/master/CNN/Deep_Compression/quantization)
