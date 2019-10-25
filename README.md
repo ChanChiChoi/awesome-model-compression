@@ -27,6 +27,7 @@ also, some papers and links collected from below, they are all awesome resources
 - [papers&codes][he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 - [papers][lhyfst/knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers)
 - [papers&codes][AojunZhou/Efficient-Deep-Learning](https://github.com/AojunZhou/Efficient-Deep-Learning)
+- [papers&hardware][fengbintu/Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 - [intro&papers&codes&blogs][Ewenwan/MVision/CNN/Deep_Compression](https://github.com/Ewenwan/MVision/tree/master/CNN/Deep_Compression/)
 - [intro&blogs][Ewenwan/MVision/quantization](https://github.com/Ewenwan/MVision/tree/master/CNN/Deep_Compression/quantization)
 - [intro&zhihu][jyhengcoder/Model-Compression](https://github.com/jyhengcoder/Model-Compression)
