@@ -18,7 +18,7 @@ also, some papers and links collected from below, they are all awesome resources
 - [x][papers&codes][htqin/model-quantization](https://github.com/htqin/model-quantization)
 - [intro&papers&projects][Tianyu-Hua/ModelCompression](https://github.com/Tianyu-Hua/ModelCompression)
 - [others&papers&codes&projects&blogs][guan-yuan/awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
-- [papers][mrgloom/Network-Speed-and-Compression](https://github.com/mrgloom/Network-Speed-and-Compression)
+- [x][papers][mrgloom/Network-Speed-and-Compression](https://github.com/mrgloom/Network-Speed-and-Compression)
 - [papers&codes&projects&blogs][handong1587/cnn-compression-acceleration](https://handong1587.github.io/deep_learning/2015/10/09/cnn-compression-acceleration.html)
 - [papers][ZhishengWang/Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
 - [papers&codes][juliagusak/model-compression-and-acceleration-progress](https://github.com/juliagusak/model-compression-and-acceleration-progress)
@@ -91,7 +91,7 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Quantization】Yunchao Gong, Liu Liu, Ming Yang, Lubomir Bourdev .[Compressing Deep Convolutional Networks using Vector Quantization](https://arxiv.org/pdf/1412.06115) .[J] arXiv preprint arXiv:1412.06115
 - 【Distillation】driana Romero, Nicolas Ballas, Samira Ebrahimi Kahou, Antoine Chassang, Carlo Gatta, Yoshua Bengio .[FitNets: Hints for Thin Deep Nets](https://arxiv.org/pdf/1412.06550) .[J] arXiv preprint arXiv:1412.06550
 - 【Quantization】[Compressing Deep Convolutional Networks using Vector Quantization](https://arxiv.org/pdf/1412.6115.pdf)
-- 【Low Rank】 Lebedev V, Ganin Y, Rakhuba M, et al. [Speeding-up convolutional neural networks using fine-tuned cp-decomposition](https://arxiv.org/pdf/1412.6553) .[J]. arXiv preprint arXiv:1412.6553, 2014.
+- 【Low Rank】 Lebedev V, Ganin Y, Rakhuba M, et al. [Speeding-up convolutional neural networks using fine-tuned cp-decomposition](https://arxiv.org/pdf/1412.6553) .[J]. arXiv preprint arXiv:1412.6553, 2014.<br>【code:[vadim-v-lebedev/cp-decomposition](https://github.com/vadim-v-lebedev/cp-decomposition); [jacobgil/pytorch-tensor-decompositions](https://github.com/jacobgil/pytorch-tensor-decompositions); [medium.com/@keremturgutlu/tensor-decomposition-fast-cnn-in-your-pocket-f03e9b2a6788](https://medium.com/@keremturgutlu/tensor-decomposition-fast-cnn-in-your-pocket-f03e9b2a6788)】
 
 
 ### 2015
@@ -117,6 +117,7 @@ also, some papers and links collected from below, they are all awesome resources
 - T. Dettmers. [8-bit approximations for parallelism in deep learning](https://arxiv.org/pdf/1511.04561). arXiv preprint arXiv:1511.04561, 2015. 
 - 【Distillation】[Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508.pdf), Nicolas Papernot, Patrick McDaniel, Xi Wu, Somesh Jha, Ananthram Swami, 2015
 - 【Distillation】[Heterogeneous Knowledge Transfer in Video Emotion Recognition, Attribution and Summarization](https://arxiv.org/pdf/1511.04798), Baohan Xu, Yanwei Fu, Yu-Gang Jiang, Boyang Li, Leonid Sigal, 2015
+- 【other】Judd P, Albericio J, Hetherington T, et al. [Reduced-precision strategies for bounded memory in deep neural nets](https://arxiv.org/pdf/1511.05236)[J]. arXiv preprint arXiv:1511.05236, 2015.
 - 【Distillation】Tianqi Chen, Ian Goodfellow, Jonathon Shlens .[Net2Net: Accelerating Learning via Knowledge Transfer](https://arxiv.org/pdf/1511.05641) .[J] arXiv preprint arXiv:1511.05641
 - 【Low Rank】Cheng Tai, Tong Xiao, Yi Zhang, Xiaogang Wang, Weinan E .[Convolutional neural networks with low-rank regularization](https://arxiv.org/pdf/1511.06067) .[J] arXiv preprint arXiv:1511.06067
 - 【Low Rank】Yong-Deok Kim, Eunhyeok Park, Sungjoo Yoo, Taelim Choi, Lu Yang, Dongjun Shin .[Compression of Deep Convolutional Neural Networks for Fast and Low Power  Mobile Applications](https://arxiv.org/pdf/1511.06530) .[J] arXiv preprint arXiv:1511.06530
@@ -154,7 +155,7 @@ also, some papers and links collected from below, they are all awesome resources
 - 【System】Lane, Nicholas D., et al. [DXTK: Enabling Resource-efficient Deep Learning on Mobile and Embedded Devices with the DeepX Toolkit](http://niclane.org/pubs/dxtk_mobicase.pdf)  .[J]MobiCASE. 2016.
 - 【System】Han, Seungyeop, et al. [MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints](http://haneul.github.io/papers/mcdnn.pdf) .[C]Proceedings of the 14th Annual International Conference on Mobile Systems, Applications, and Services. ACM, 2016.
 - 【System】Bhattacharya, Sourav, and Nicholas D. Lane. [Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables](http://niclane.org/pubs/sparsesep_sensys.pdf) .[C]Proceedings of the 14th ACM Conference on Embedded Network Sensor Systems CD-ROM. ACM, 2016.
-- Molchanov, Pavlo, et al. [Pruning convolutional neural networks for resource efficient transfer learning](https://pdfs.semanticscholar.org/026e/cf916023e13191331a354271b7f9b86e50a1.pdf). arXiv preprint arXiv:1611.06440 3 (2016). 
+- 【Pruning】Molchanov, Pavlo, et al. [Pruning convolutional neural networks for resource efficient transfer learning](https://pdfs.semanticscholar.org/026e/cf916023e13191331a354271b7f9b86e50a1.pdf). arXiv preprint arXiv:1611.06440 3 (2016). 
 - Babaeizadeh, Mohammad, Paris Smaragdis, and Roy H. Campbell. [A Simple yet Effective Method to Prune Dense Layers of Neural Networks](https://openreview.net/forum?id=HJIY0E9ge&noteId=HJIY0E9ge) (2016).
 - 【Pruning】 Sun Y, Wang X, Tang X. [Sparsifying neural network connections for face recognition](http://openaccess.thecvf.com/content_cvpr_2016/papers/Sun_Sparsifying_Neural_Network_CVPR_2016_paper.pdf) .[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 4856-4864.
 - 【Quantization】 Lin, Darryl, Sachin Talathi, and Sreekanth Annapureddy. [Fixed point quantization of deep convolutional networks.](http://www.jmlr.org/proceedings/papers/v48/linb16.pdf) International Conference on Machine Learning. 2016.
@@ -180,6 +181,7 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Pruning】Yiwen Guo, Anbang Yao, Yurong Chen .[Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/pdf/1608.04493) .[J] arXiv preprint arXiv:1608.04493
 - 【Binarization】Felix Juefei-Xu, Vishnu Naresh Boddeti, Marios Savvides .[Local Binary Convolutional Neural Networks](https://arxiv.org/pdf/1608.06049) .[J] arXiv preprint arXiv:1608.06049
 - 【Pruning】Hao Li, Asim Kadav, Igor Durdanovic, Hanan Samet, Hans Peter Graf .[Pruning Filters for Efficient ConvNets](https://arxiv.org/pdf/1608.08710) .[J] arXiv preprint arXiv:1608.08710
+- 【other】Tramèr F, Zhang F, Juels A, et al. [Stealing machine learning models via prediction apis](https://arxiv.org/pdf/1609.02943.pdf)[C]//25th {USENIX} Security Symposium ({USENIX} Security 16). 2016: 601-618.
 - 【Quantization】Itay Hubara, Matthieu Courbariaux, Daniel Soudry, Ran El-Yaniv, Yoshua Bengio .[Quantized Neural Networks: Training Neural Networks with Low Precision  Weights and Activations](https://arxiv.org/pdf/1609.07061) .[J] arXiv preprint arXiv:1609.07061
 - 【Structure】François Chollet .[Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/pdf/1610.02357) .[J] arXiv preprint arXiv:1610.02357
 - 【Distillation】Bharat Bhusan Sau, Vineeth N. Balasubramanian .[Deep Model Compression: Distilling Knowledge from Noisy Teachers](https://arxiv.org/pdf/1610.09650) .[J] arXiv preprint arXiv:1610.09650
@@ -189,19 +191,20 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Structure】Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, Kaiming He .[Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/pdf/1611.05431) .[J] arXiv preprint arXiv:1611.05431
 - A. Ren, Z. Li, C. Ding, Q. Qiu, Y. Wang, J. Li, X. Qian, and B. Yuan. [Sc-dcnn: Highly-scalable deep convolutional neural network using stochastic computing](https://arxiv.org/pdf/1611.05939). arXiv preprint arXiv:1611.05939, 2016.  
 - 【Pruning】Pavlo Molchanov, Stephen Tyree, Tero Karras, Timo Aila, Jan Kautz .[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/pdf/1611.06440) .[J] arXiv preprint arXiv:1611.06440
+- 【other】Bagherinezhad H, Rastegari M, Farhadi A. [Lcnn: Lookup-based convolutional neural network](https://arxiv.org/pdf/1611.06473.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 7120-7129.
 - 【Quantization】Qinyao He, He Wen, Shuchang Zhou, Yuxin Wu, Cong Yao, Xinyu Zhou, Yuheng Zou .[Effective Quantization Methods for Recurrent Neural Networks](https://arxiv.org/pdf/1611.10176) .[J] arXiv preprint arXiv:1611.10176
+- 【Distallation】 Shen J, Vesdapunt N, Boddeti V N, et al. [In teacher we trust: Learning compressed models for pedestrian detection](https://arxiv.org/pdf/1612.00478.pdf) .[J]. arXiv preprint arXiv:1612.00478, 2016.
 - 【Pruning】Song Han, Junlong Kang, Huizi Mao, Yiming Hu, Xin Li, Yubin Li, Dongliang Xie, Hong Luo, Song Yao, Yu Wang, Huazhong Yang, William J. Dally .[ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA](https://arxiv.org/pdf/1612.00694) .[J] arXiv preprint arXiv:1612.00694
 - 【Structure】Bichen Wu, Alvin Wan, Forrest Iandola, Peter H. Jin, Kurt Keutzer .[SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural  Networks for Real-Time Object Detection for Autonomous Driving](https://arxiv.org/pdf/1612.01051) .[J] arXiv preprint arXiv:1612.01051
-- 【Quantization】Chenzhuo Zhu, Song Han, Huizi Mao, William J. Dally .[Trained Ternary Quantization](https://arxiv.org/pdf/1612.01064) .[J] arXiv preprint arXiv:1612.01064
+- 【Quantization】Zhu C, Han S, Mao H, et al. [Trained ternary quantization](https://arxiv.org/pdf/1612.01064)[J]. arXiv preprint arXiv:1612.01064, 2016.
 - 【Quantization】Yoojin Choi, Mostafa El-Khamy, Jungwon Lee .[Towards the Limit of Network Quantization](https://arxiv.org/pdf/1612.01543) .[J] arXiv preprint arXiv:1612.01543
 - 【Distillation】Sergey Zagoruyko, Nikos Komodakis .[Paying More Attention to Attention: Improving the Performance of  Convolutional Neural Networks via Attention Transfer](https://arxiv.org/pdf/1612.03928) .[J] arXiv preprint arXiv:1612.03928
-- 【Distallation】 Shen J, Vesdapunt N, Boddeti V N, et al. [In teacher we trust: Learning compressed models for pedestrian detection](https://arxiv.org/pdf/1612.00478.pdf) .[J]. arXiv preprint arXiv:1612.00478, 2016.
-- 【Quantization】Zhu C, Han S, Mao H, et al. [Trained ternary quantization](https://arxiv.org/pdf/1612.01064)[J]. arXiv preprint arXiv:1612.01064, 2016.
-- S. Zagoruyko and N. Komodakis. [Paying more attention to attention: Improving the performance of convolutional neural networks via attention transfer](https://arxiv.org/pdf/1612.03928.pdf). arXiv preprint arXiv:1612.03928, 2016.
+- 【other】Hashemi S, Anthony N, Tann H, et al. [Understanding the impact of precision quantization on the accuracy and energy of neural networks](https://arxiv.org/pdf/1612.03940)[C]//Design, Automation & Test in Europe Conference & Exhibition (DATE), 2017. IEEE, 2017: 1474-1479.
 - Umuroglu. [Finn: A framework for fast, scalable binarized neural network inference](https://arxiv.org/pdf/1612.07119).[J] arXiv preprint arXiv:1612.07119
 
 
 ### 2017
+- 【Binarization】Yang H, Fritzsche M, Bartz C, et al. [Bmxnet: An open-source binary neural network implementation based on mxnet](https://arxiv.org/pdf/1705.09864)[C]//Proceedings of the 25th ACM international conference on Multimedia. ACM, 2017: 1209-1212.<br>【code:[hpi-xnor/BMXNet](https://github.com/hpi-xnor/BMXNet)】
 - 【Quantization】Cai Z, He X, Sun J, et al. [Deep learning with low precision by half-wave gaussian quantization](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cai_Deep_Learning_With_CVPR_2017_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 5918-5926.
 - 【Quantization】Yonekawa H, Nakahara H. [On-chip memory based binarized convolutional deep neural network applying batch normalization free technique on an fpga](https://www.researchgate.net/profile/Hiroki_Nakahara/publication/318127383_On-Chip_Memory_Based_Binarized_Convolutional_Deep_Neural_Network_Applying_Batch_Normalization_Free_Technique_on_an_FPGA/links/5b59efffaca272a2d66cb247/On-Chip-Memory-Based-Binarized-Convolutional-Deep-Neural-Network-Applying-Batch-Normalization-Free-Technique-on-an-FPGA.pdf)[C]//2017 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW). IEEE, 2017: 98-105.
 - 【Quantization】Liang S, Yin S, Liu L, et al. [FP-BNN: Binarized neural network on FPGA](http://www.doc.ic.ac.uk/~wl/papers/17/neuro17sl0.pdf)[J]. Neurocomputing, 2018, 275: 1072-1086.
@@ -246,6 +249,7 @@ also, some papers and links collected from below, they are all awesome resources
 - Lin J, Rao Y, Lu J, et al. [Runtime neural pruning](http://papers.nips.cc/paper/6813-runtime-neural-pruning)[C]//Advances in Neural Information Processing Systems. 2017: 2181-2191.
 - Aghasi A, Abdi A, Nguyen N, et al. [Net-trim: Convex pruning of deep neural networks with performance guarantee.](http://papers.nips.cc/paper/6910-net-trim-convex-pruning-of-deep-neural-networks-with-performance-guarantee)[C]//Advances in Neural Information Processing Systems. 2017: 3177-3186.
 - 【Distillation】[Data-Free Knowledge Distillation For Deep Neural Networks](http://raphagl.com/research/replayed-distillation/), Raphael Gontijo Lopes, Stefano Fenu, 2017 
+- 【other】Molchanov D, Ashukha A, Vetrov D. [Variational dropout sparsifies deep neural networks](https://arxiv.org/pdf/1701.05369)[C]//Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017: 2498-2507.<br>【code:[ars-ashuha/variational-dropout-sparsifies-dnn](https://github.com/ars-ashuha/variational-dropout-sparsifies-dnn)】
 - 【Quantization】Zhaowei Cai, Xiaodong He, Jian Sun, Nuno Vasconcelos .[Deep Learning with Low Precision by Half-wave Gaussian Quantization](https://arxiv.org/pdf/1702.00953) .[J] arXiv preprint arXiv:1702.00953
 - 【Quantization】 Zhou, Aojun, et al. [Incremental network quantization: Towards lossless cnns with low-precision weights.](https://arxiv.org/pdf/1702.03044.pdf) arXiv preprint arXiv:1702.03044 (2017).
 - 【Pruning】Karen Ullrich, Edward Meeds, Max Welling .[Soft Weight-Sharing for Neural Network Compression](https://arxiv.org/pdf/1702.04008) .[J] arXiv preprint arXiv:1702.04008
@@ -255,6 +259,7 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Structure】ndrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam .[MobileNets: Efficient Convolutional Neural Networks for Mobile Vision  Applications](https://arxiv.org/pdf/1704.04861) .[J] arXiv preprint arXiv:1704.04861
 - 【Structure】Fei Wang, Mengqing Jiang, Chen Qian, Shuo Yang, Cheng Li, Honggang Zhang, Xiaogang Wang, Xiaoou Tang .[Residual Attention Network for Image Classification](https://arxiv.org/pdf/1704.06904) .[J] arXiv preprint arXiv:1704.06904
 - 【Quantization】Mellempudi N, Kundu A, Mudigere D, et al. [Ternary neural networks with fine-grained quantization](https://arxiv.org/pdf/1705.01462)[J]. arXiv preprint arXiv:1705.01462, 2017.
+- 【Structure】Louizos C, Ullrich K, Welling M. [Bayesian compression for deep learning](https://arxiv.org/pdf/1705.08665.pdf)[C]//Advances in Neural Information Processing Systems. 2017: 3288-3298.
 - H. Tann, S. Hashemi, I. Bahar, and S. Reda. [Hardwaresoftware codesign of accurate, multiplier-free deep neural networks](https://arxiv.org/pdf/1705.04288). arXiv preprint arXiv:1705.04288, 2017.
 - H. Mao, S. Han, J. Pool, W. Li, X. Liu, Y. Wang, and W. J. Dally. [Exploring the regularity of sparse structure in convolutional neural networks](https://arxiv.org/pdf/1705.08922). arXiv preprint arXiv:1705.08922, 2017. 
 - 【System】Qingqing Cao, Niranjan Balasubramanian, Aruna Balasubramanian .[MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU](https://arxiv.org/pdf/1706.00878) .[J] arXiv preprint arXiv:1706.00878
@@ -268,7 +273,7 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Survey】Miguel Á. Carreira-Perpiñán, Yerlan Idelbayev .[Model compression as constrained optimization, with application to  neural nets. Part II: quantization](https://arxiv.org/pdf/1707.04319) .[J] arXiv preprint arXiv:1707.04319
 - 【Binarization】Jeng-Hau Lin, Tianwei Xing, Ritchie Zhao, Zhiru Zhang, Mani Srivastava, Zhuowen Tu, Rajesh K. Gupta .[Binarized Convolutional Neural Networks with Separable Filters for  Efficient Hardware Acceleration](https://arxiv.org/pdf/1707.04693) .[J] arXiv preprint arXiv:1707.04693
 - 【Pruning】Yihui He, Xiangyu Zhang, Jian Sun .[Channel Pruning for Accelerating Very Deep Neural Networks](https://arxiv.org/pdf/1707.06168) .[J] arXiv preprint arXiv:1707.06168
-- 【Structure】Jian-Hao Luo, Jianxin Wu, Weiyao Lin .[ThiNet: A Filter Level Pruning Method for Deep Neural Network  Compression](https://arxiv.org/pdf/1707.06342) .[J] arXiv preprint arXiv:1707.06342
+- 【Structure】Jian-Hao Luo, Jianxin Wu, Weiyao Lin .[ThiNet: A Filter Level Pruning Method for Deep Neural Network  Compression](https://arxiv.org/pdf/1707.06342) .[J] arXiv preprint arXiv:1707.06342<br>【code:[Roll920/ThiNet](https://github.com/Roll920/ThiNet)】
 - 【Structure】Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le .[Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012) .[J] arXiv preprint arXiv:1707.07012
 - 【Pruning】Frederick Tung, Srikanth Muralidharan, Greg Mori .[Fine-Pruning: Joint Fine-Tuning and Compression of a Convolutional  Network with Bayesian Optimization](https://arxiv.org/pdf/1707.09102) .[J] arXiv preprint arXiv:1707.09102
 - 【Distillation】[Rocket Launching: A Universal and Efficient Framework for Training Well-performing Light Net](https://arxiv.org/pdf/1708.04106.pdf), Zihao Liu, Qi Liu, Tao Liu, Yanzhi Wang, Wujie Wen, 2017
@@ -324,6 +329,7 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Distillation】[Efficient Neural Architecture Search via Parameters Sharing](https://arxiv.org/pdf/1802.03268), Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean, 2018
 - Yihui He, Song Han .[ADC: Automated Deep Compression and Acceleration with Reinforcement  Learning](https://arxiv.org/pdf/1802.03494) .[J] arXiv preprint arXiv:1802.03494.
 - 【Quantization】Yukun Ding, Jinglan Liu, Yiyu Shi .[On the Universal Approximability of Quantized ReLU Neural Networks](https://arxiv.org/pdf/1802.03646) .[J] arXiv preprint arXiv:1802.03646
+- 【Structured】Qin Z, Zhang Z, Chen X, et al. [Fd-mobilenet: Improved mobilenet with a fast downsampling strategy](https://arxiv.org/pdf/1802.03750)[C]//2018 25th IEEE International Conference on Image Processing (ICIP). IEEE, 2018: 1363-1367.
 - Jeff Zhang, Kartheek Rangineni, Zahra Ghodsi, Siddharth Garg .[ThUnderVolt: Enabling Aggressive Voltage Underscaling and Timing Error  Resilience for Energy Efficient Deep Neural Network Accelerators](https://arxiv.org/pdf/1802.03806) .[J] arXiv preprint arXiv:1802.03806.
 - Jeff Zhang, Tianyu Gu, Kanad Basu, Siddharth Garg .[Analyzing and Mitigating the Impact of Permanent Faults on a Systolic  Array Based Neural Network Accelerator](https://arxiv.org/pdf/1802.04657) .[J] arXiv preprint arXiv:1802.04657.
 - 【Quantization】Wu S, Li G, Chen F, et al.[Training and Inference with Integers in Deep Neural Networks](https://arxiv.org/pdf/1802.04680) .[J] arXiv preprint arXiv:1802.04680
@@ -337,6 +343,7 @@ also, some papers and links collected from below, they are all awesome resources
 - Matthew Sotoudeh, Sara S. Baghsorkhi .[DeepThin: A Self-Compressing Library for Deep Neural Networks](https://arxiv.org/pdf/1802.06944) .[J] arXiv preprint arXiv:1802.06944.
 - Ming Yu, Zhaoran Wang, Varun Gupta, Mladen Kolar .[Recovery of simultaneous low rank and two-way sparse coefficient  matrices, a nonconvex approach](https://arxiv.org/pdf/1802.06967) .[J] arXiv preprint arXiv:1802.06967.
 - Babajide O. Ayinde, Jacek M. Zurada .[Building Efficient ConvNets using Redundant Feature Pruning](https://arxiv.org/pdf/1802.07653) .[J] arXiv preprint arXiv:1802.07653.
+- 【Binarization】McDonnell M D. [Training wide residual networks for deployment using a single bit for each weight](https://arxiv.org/pdf/1802.08530)[J]. arXiv preprint arXiv:1802.08530, 2018.<br>【code:[szagoruyko/binary-wide-resnet](https://github.com/szagoruyko/binary-wide-resnet)】
 - Lu Hou, James T. Kwok .[Loss-aware Weight Quantization of Deep Networks](https://arxiv.org/pdf/1802.08635) .[J] arXiv preprint arXiv:1802.08635.
 - Wenqi Wang, Yifan Sun, Brian Eriksson, Wenlin Wang, Vaneet Aggarwal .[Wide Compression: Tensor Ring Nets](https://arxiv.org/pdf/1802.09052) .[J] arXiv preprint arXiv:1802.09052.
 - Jinglan Liu, Jiaxin Zhang, Yukun Ding, Xiaowei Xu, Meng Jiang, Yiyu Shi .[PBGen: Partial Binarization of Deconvolution-Based Generators for Edge  Intelligence](https://arxiv.org/pdf/1802.09153) .[J] arXiv preprint arXiv:1802.09153.
@@ -360,6 +367,7 @@ also, some papers and links collected from below, they are all awesome resources
 - Maksym Kholiavchenko .[Iterative Low-Rank Approximation for CNN Compression](https://arxiv.org/pdf/1803.08995) .[J] arXiv preprint arXiv:1803.08995.
 - Zheng Hui, Xiumei Wang, Xinbo Gao .[Fast and Accurate Single Image Super-Resolution via Information  Distillation Network](https://arxiv.org/pdf/1803.09454) .[J] arXiv preprint arXiv:1803.09454.
 - Jongwon Choi, Hyung Jin Chang, Tobias Fischer, Sangdoo Yun, Kyuewang Lee, Jiyeoup Jeong, Yiannis Demiris, Jin Young Choi .[Context-aware Deep Feature Compression for High-speed Visual Tracking](https://arxiv.org/pdf/1803.10537) .[J] arXiv preprint arXiv:1803.10537.
+- 【Structure】Gholami A, Kwon K, Wu B, et al. [Squeezenext: Hardware-aware neural network design](https://arxiv.org/pdf/1803.10615.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2018: 1638-1647.
 - Vasileios Belagiannis, Azade Farshad, Fabio Galasso .[Adversarial Network Compression](https://arxiv.org/pdf/1803.10750) .[J] arXiv preprint arXiv:1803.10750.
 - Ameya Prabhu, Vishal Batchu, Sri Aurobindo Munagala, Rohit Gajawada, Anoop Namboodiri .[Distribution-Aware Binarization of Neural Networks for Sketch  Recognition](https://arxiv.org/pdf/1804.02941) .[J] arXiv preprint arXiv:1804.02941.
 - 【Distillation】[Large scale distributed neural network training through online distillation](https://arxiv.org/abs/1804.03235), Rohan Anil, Gabriel Pereyra, Alexandre Passos, Robert Ormandi, George E. Dahl, Geoffrey E. Hinton, 2018
@@ -413,6 +421,7 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Structure】Xingyu Liu, Jeff Pool, Song Han, William J. Dally .[Efficient Sparse-Winograd Convolutional Neural Networks](https://arxiv.org/pdf/1802.06367) .[J] arXiv preprint arXiv:1802.06367
 - Alireza Aghasi, Afshin Abdi, Justin Romberg .[Fast Convex Pruning of Deep Neural Networks](https://arxiv.org/pdf/1806.06457) .[J] arXiv preprint arXiv:1806.06457.
 - Maximilian Golub, Guy Lemieux, Mieszko Lis .[DropBack: Continuous Pruning During Training](https://arxiv.org/pdf/1806.06949) .[J] arXiv preprint arXiv:1806.06949.
+- 【Quantization】Krishnamoorthi R. [Quantizing deep convolutional networks for efficient inference: A whitepaper](https://arxiv.org/pdf/1806.08342)[J]. arXiv preprint arXiv:1806.08342, 2018.
 - Junru Wu, Yue Wang, Zhenyu Wu, Zhangyang Wang, Ashok Veeraraghavan, Yingyan Lin .[Deep $k$-Means: Re-Training and Parameter Sharing with Harder Cluster  Assignments for Compressing Deep Convolutions](https://arxiv.org/pdf/1806.09228) .[J] arXiv preprint arXiv:1806.09228.
 - Behzad Salami, Osman Unsal, Adrian Cristal .[On the Resilience of RTL NN Accelerators: Fault Characterization and  Mitigation](https://arxiv.org/pdf/1806.09679) .[J] arXiv preprint arXiv:1806.09679.
 - Julian Faraone, Nicholas Fraser, Michaela Blott, Philip H.W. Leong .[SYQ: Learning Symmetric Quantization For Efficient Deep Neural Networks](https://arxiv.org/pdf/1807.00301) .[J] arXiv preprint arXiv:1807.00301.
@@ -423,6 +432,7 @@ also, some papers and links collected from below, they are all awesome resources
 - Salaheddin Alakkari, John Dingliana .[An Acceleration Scheme for Memory Limited, Streaming PCA](https://arxiv.org/pdf/1807.06530) .[J] arXiv preprint arXiv:1807.06530.
 - Seung Hyun Lee, Dae Ha Kim, Byung Cheol Song .[Self-supervised Knowledge Distillation Using Singular Value  Decomposition](https://arxiv.org/pdf/1807.06819) .[J] arXiv preprint arXiv:1807.06819.
 - Grant P. Strimel, Kanthashree Mysore Sathyendra, Stanislav Peshterliev .[Statistical Model Compression for Small-Footprint Natural Language  Understanding](https://arxiv.org/pdf/1807.07520) .[J] arXiv preprint arXiv:1807.07520.
+- 【Binarization】He Z, Gong B, Fan D. [Optimize deep convolutional neural network with ternarized weights and high accuracy](https://arxiv.org/pdf/1807.07948)[C]//2019 IEEE Winter Conference on Applications of Computer Vision (WACV). IEEE, 2019: 913-921.
 - Qianru Zhang, Meng Zhang, Tinghuan Chen, Zhifei Sun, Yuzhe Ma, Bei Yu .[Recent Advances in Convolutional Neural Network Acceleration](https://arxiv.org/pdf/1807.08596) .[J] arXiv preprint arXiv:1807.08596.
 - Armin Mehrabian, Yousra Al-Kabani, Volker J Sorger, Tarek El-Ghazawi .[PCNNA: A Photonic Convolutional Neural Network Accelerator](https://arxiv.org/pdf/1807.08792) .[J] arXiv preprint arXiv:1807.08792.
 - Abhimanyu Dubey, Moitreya Chatterjee, Narendra Ahuja .[Coreset-Based Neural Network Compression](https://arxiv.org/pdf/1807.09810) .[J] arXiv preprint arXiv:1807.09810.
@@ -433,6 +443,7 @@ also, some papers and links collected from below, they are all awesome resources
 - Ling Liang, Lei Deng, Yueling Zeng, Xing Hu, Yu Ji, Xin Ma, Guoqi Li, Yuan Xie .[Crossbar-aware neural network pruning](https://arxiv.org/pdf/1807.10816) .[J] arXiv preprint arXiv:1807.10816.
 - Tianyun Zhang, Kaiqi Zhang, Shaokai Ye, Jiayu Li, Jian Tang, Wujie Wen, Xue Lin, Makan Fardad, Yanzhi Wang .[ADAM-ADMM: A Unified, Systematic Framework of Structured Weight Pruning  for DNNs](https://arxiv.org/pdf/1807.11091) .[J] arXiv preprint arXiv:1807.11091.
 - Bo Peng, Wenming Tan, Zheyang Li, Shun Zhang, Di Xie, Shiliang Pu .[Extreme Network Compression via Filter Group Approximation](https://arxiv.org/pdf/1807.11254) .[J] arXiv preprint arXiv:1807.11254.
+- 【Structure】Tan M, Chen B, Pang R, et al. [Mnasnet: Platform-aware neural architecture search for mobile](https://arxiv.org/pdf/1807.11626.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 2820-2828.
 - David M. Chan, Roshan Rao, Forrest Huang, John F. Canny .[t-SNE-CUDA: GPU-Accelerated t-SNE and its Applications to Modern Data](https://arxiv.org/pdf/1807.11824) .[J] arXiv preprint arXiv:1807.11824.
 - Ini Oguntola, Subby Olubeko, Christopher Sweeney .[SlimNets: An Exploration of Deep Model Compression and Acceleration](https://arxiv.org/pdf/1808.00496) .[J] arXiv preprint arXiv:1808.00496.
 - Zhanxuan Hu, Feiping Nie, Lai Tian, Rong Wang, Xuelong Li .[A Comprehensive Survey for Low Rank Regularization](https://arxiv.org/pdf/1808.04521) .[J] arXiv preprint arXiv:1808.04521.
@@ -523,10 +534,12 @@ also, some papers and links collected from below, they are all awesome resources
 - Maxim Naumov, Utku Diril, Jongsoo Park, Benjamin Ray, Jedrzej Jablonski, Andrew Tulloch .[On Periodic Functions as Regularizers for Quantization of Neural Networks](https://arxiv.org/pdf/1811.09862) .[J] arXiv preprint arXiv:1811.09862.
 - Shiming Ge, Shengwei Zhao, Chenyu Li, Jia Li .[Low-resolution Face Recognition in the Wild via Selective Knowledge Distillation](https://arxiv.org/pdf/1811.09998) .[J] arXiv preprint arXiv:1811.09998.
 - Pravendra Singh, Vinay Kumar Verma, Piyush Rai, Vinay P. Namboodiri .[Leveraging Filter Correlations for Deep Model Compression](https://arxiv.org/pdf/1811.10559) .[J] arXiv preprint arXiv:1811.10559.
+- 【Structure】Mehta S, Rastegari M, Shapiro L, et al. [Espnetv2: A light-weight, power efficient, and general purpose convolutional neural network](https://arxiv.org/pdf/1811.11431.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 9190-9200.<br>【code:[sacmehta/ESPNetv2](https://github.com/sacmehta/ESPNetv2)】
 - Luna M. Zhang .[Effective, Fast, and Memory-Efficient Compressed Multi-function Convolutional Neural Networks for More Accurate Medical Image Classification](https://arxiv.org/pdf/1811.11996) .[J] arXiv preprint arXiv:1811.11996.
 - Hyeji Kim, Muhammad Umar Karim, Chong-Min Kyung .[A Framework for Fast and Efficient Neural Network Compression](https://arxiv.org/pdf/1811.12781) .[J] arXiv preprint arXiv:1811.12781.
 - Bichen Wu, Yanghan Wang, Peizhao Zhang, Yuandong Tian, Peter Vajda, Kurt Keutzer .[Mixed Precision Quantization of ConvNets via Differentiable Neural Architecture Search](https://arxiv.org/pdf/1812.00090) .[J] arXiv preprint arXiv:1812.00090.
 - Chenglin Yang, Lingxi Xie, Chi Su, Alan L. Yuille .[Snapshot Distillation: Teacher-Student Optimization in One Generation](https://arxiv.org/pdf/1812.00123) .[J] arXiv preprint arXiv:1812.00123.
+- 【Structure】Cai H, Zhu L, Han S. [Proxylessnas: Direct neural architecture search on target task and hardware](https://arxiv.org/pdf/1812.00332)[J]. arXiv preprint arXiv:1812.00332, 2018.
 - Yuefu Zhou, Ya Zhang, Yanfeng Wang, Qi Tian .[Network Compression via Recursive Bayesian Pruning](https://arxiv.org/pdf/1812.00353) .[J] arXiv preprint arXiv:1812.00353.
 - Wei-Chun Chen, Chia-Che Chang, Chien-Yu Lu, Che-Rung Lee .[Knowledge Distillation with Feature Maps for Image Classification](https://arxiv.org/pdf/1812.00660) .[J] arXiv preprint arXiv:1812.00660.
 - Christian Pinto, Yiannis Gkoufas, Andrea Reale, Seetharami Seelam, Steven Eliuk .[Hoard: A Distributed Data Caching System to Accelerate Deep Learning Training on the Cloud](https://arxiv.org/pdf/1812.00669) .[J] arXiv preprint arXiv:1812.00669.
