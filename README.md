@@ -32,7 +32,7 @@ also, some papers and links collected from below, they are all awesome resources
 - [intro&blogs][Ewenwan/MVision/quantization](https://github.com/Ewenwan/MVision/tree/master/CNN/Deep_Compression/quantization)
 - [intro&zhihu][jyhengcoder/Model-Compression](https://github.com/jyhengcoder/Model-Compression)
 - [x][little papers][tejalal/awesome-deep-model-compression](https://github.com/tejalal/awesome-deep-model-compression)
-- [papers&2years ago][Xreki/ModelCompression](https://github.com/Xreki/ModelCompression/tree/master/papers)
+- [x][papers&2years ago][Xreki/ModelCompression](https://github.com/Xreki/ModelCompression/tree/master/papers)
 - [intro&papers][mapleam/model-compression-and-acceleration-4-DNN](https://github.com/mapleam/model-compression-and-acceleration-4-DNN)
 - [x][Ref][clhne/model-compression-and-acceleration](https://github.com/clhne/model-compression-and-acceleration)
 
