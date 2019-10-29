@@ -23,7 +23,7 @@ also, some papers and links collected from below, they are all awesome resources
 - [papers&hardware][ZhishengWang/Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
 - [papers&hardware][fengbintu/Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 - [x][papers&codes][juliagusak/model-compression-and-acceleration-progress](https://github.com/juliagusak/model-compression-and-acceleration-progress)
-- [papers][ljk628/ML-Systems](https://github.com/ljk628/ML-Systems)
+- [others&papers][ljk628/ML-Systems](https://github.com/ljk628/ML-Systems)
 - [x][papers&codes][Hyungjun-K1m/Neural-Network-Compression](https://github.com/Hyungjun-K1m/Neural-Network-Compression)
 - [x][papers&codes][he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 - [x][papers][lhyfst/knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers)
