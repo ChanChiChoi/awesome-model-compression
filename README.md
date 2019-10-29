@@ -22,7 +22,7 @@ also, some papers and links collected from below, they are all awesome resources
 - [papers&codes&projects&blogs][handong1587/cnn-compression-acceleration](https://handong1587.github.io/deep_learning/2015/10/09/cnn-compression-acceleration.html)
 - [papers&hardware][ZhishengWang/Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
 - [papers&hardware][fengbintu/Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
-- [papers&codes][juliagusak/model-compression-and-acceleration-progress](https://github.com/juliagusak/model-compression-and-acceleration-progress)
+- [x][papers&codes][juliagusak/model-compression-and-acceleration-progress](https://github.com/juliagusak/model-compression-and-acceleration-progress)
 - [papers][ljk628/ML-Systems](https://github.com/ljk628/ML-Systems)
 - [x][papers&codes][Hyungjun-K1m/Neural-Network-Compression](https://github.com/Hyungjun-K1m/Neural-Network-Compression)
 - [x][papers&codes][he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
@@ -218,6 +218,7 @@ also, some papers and links collected from below, they are all awesome resources
 
 
 ### 2017
+- 【Thesis】Han S, Dally B. [Efficient methods and hardware for deep learning](https://stacks.stanford.edu/file/druid:qf934gh3708/EFFICIENT%20METHODS%20AND%20HARDWARE%20FOR%20DEEP%20LEARNING-augmented.pdf)[J]. University Lecture, 2017.
 - 【Binarization】Yang H, Fritzsche M, Bartz C, et al. [Bmxnet: An open-source binary neural network implementation based on mxnet](https://arxiv.org/pdf/1705.09864)[C]//Proceedings of the 25th ACM international conference on Multimedia. ACM, 2017: 1209-1212.<br>【code:[hpi-xnor/BMXNet](https://github.com/hpi-xnor/BMXNet)】
 - 【Pruning】Neklyudov K, Molchanov D, Ashukha A, et al. [Structured bayesian pruning via log-normal multiplicative noise](https://papers.nips.cc/paper/7254-structured-bayesian-pruning-via-log-normal-multiplicative-noise.pdf)[C]//Advances in Neural Information Processing Systems. 2017: 6775-6784.<br>【code;[necludov/group-sparsity-sbp](https://github.com/necludov/group-sparsity-sbp)】
 - Park E, Ahn J, Yoo S. [Weighted-entropy-based quantization for deep neural networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Park_Weighted-Entropy-Based_Quantization_for_CVPR_2017_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 5456-5464.<br>【code:[EunhyeokPark/script_for_WQ](https://github.com/EunhyeokPark/script_for_WQ)】
@@ -291,6 +292,7 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Pruning】Zehao Huang, Naiyan Wang .[Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/pdf/1707.01213) .[J] arXiv preprint arXiv:1707.01213<br>【code:[TuSimple/sparse-structure-selection](https://github.com/TuSimple/sparse-structure-selection)】
 - 【Distillation】Zehao Huang, Naiyan Wang .[Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/pdf/1707.01219) .[J] arXiv preprint arXiv:1707.01219
 - 【Distillation】Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang .[DarkRank: Accelerating Deep Metric Learning via Cross Sample  Similarities Transfer](https://arxiv.org/pdf/1707.01220) .[J] arXiv preprint arXiv:1707.01220
+- 【Structure】Ting Zhang, Guo-Jun Qi, Bin Xiao, Jingdong Wang. [Interleaved Group Convolutions for Deep Neural Networks](https://arxiv.org/abs/1707.02725).[J] arXiv preprint arXiv:1707.02725
 - 【Survey】Miguel Á. Carreira-Perpiñán, Yerlan Idelbayev .[Model compression as constrained optimization, with application to  neural nets. Part II: quantization](https://arxiv.org/pdf/1707.04319) .[J] arXiv preprint arXiv:1707.04319
 - 【Binarization】Jeng-Hau Lin, Tianwei Xing, Ritchie Zhao, Zhiru Zhang, Mani Srivastava, Zhuowen Tu, Rajesh K. Gupta .[Binarized Convolutional Neural Networks with Separable Filters for  Efficient Hardware Acceleration](https://arxiv.org/pdf/1707.04693) .[J] arXiv preprint arXiv:1707.04693
 - 【Pruning】Yihui He, Xiangyu Zhang, Jian Sun .[Channel Pruning for Accelerating Very Deep Neural Networks](https://arxiv.org/pdf/1707.06168) .[J] arXiv preprint arXiv:1707.06168<br>【code:[yihui-he/channel-pruning](https://github.com/yihui-he/channel-pruning);[Eric-mingjie/rethinking-network-pruning](https://github.com/Eric-mingjie/rethinking-network-pruning/tree/master/imagenet)】
@@ -315,7 +317,7 @@ also, some papers and links collected from below, they are all awesome resources
 - 【Pruning】Mallya A, Lazebnik S. [Packnet: Adding multiple tasks to a single network by iterative pruning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mallya_PackNet_Adding_Multiple_CVPR_2018_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 7765-7773.<br>【code:[arunmallya/packnet](https://github.com/arunmallya/packnet)】
 - 【Distillation】Mishra A, Marr D. [Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy](https://arxiv.org/pdf/1711.05852)[J]. arXiv preprint arXiv:1711.05852, 2017.
 - 【Pruning】Ruichi Yu, Ang Li, Chun-Fu Chen, Jui-Hsin Lai, Vlad I. Morariu, Xintong Han, Mingfei Gao, Ching-Yung Lin, Larry S. Davis .[NISP: Pruning Networks using Neuron Importance Score Propagation](https://arxiv.org/pdf/1711.05908) .[J] arXiv preprint arXiv:1711.05908
-- 【Pruning】iel Gordon, Elad Eban, Ofir Nachum, Bo Chen, Tien-Ju Yang, Edward Choi .[MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep  Networks](https://arxiv.org/pdf/1711.06798) .[J] arXiv preprint arXiv:1711.06798
+- 【Pruning】iel Gordon, Elad Eban, Ofir Nachum, Bo Chen, Tien-Ju Yang, Edward Choi .[MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep  Networks](https://arxiv.org/pdf/1711.06798) .[J] arXiv preprint arXiv:1711.06798<br>【code:[google-research/morph-net](https://github.com/google-research/morph-net)】
 - 【System】Stylianos I. Venieris, Christos-Savvas Bouganis .[fpgaConvNet: A Toolflow for Mapping Diverse Convolutional Neural  Networks on Embedded FPGAs](https://arxiv.org/pdf/1711.08740) .[J] arXiv preprint arXiv:1711.08740
 - 【Structure】Gao Huang, Shichen Liu, Laurens van der Maaten, Kilian Q. Weinberger .[CondenseNet: An Efficient DenseNet using Learned Group Convolutions](https://arxiv.org/pdf/1711.09224) .[J] arXiv preprint arXiv:1711.09224
 - [Learning Sparse Neural Networks through L0 Regularization](https://arxiv.org/abs/1712.01312) .[J] arXiv preprint arXiv:1711.01312
@@ -327,6 +329,8 @@ also, some papers and links collected from below, they are all awesome resources
 
 ### 2018
 - 【Structure】【ChannelNets】Gao H, Wang Z, Ji S. [Channelnets: Compact and efficient convolutional neural networks via channel-wise convolutions](https://papers.nips.cc/paper/7766-channelnets-compact-and-efficient-convolutional-neural-networks-via-channel-wise-convolutions.pdf)[C]//Advances in Neural Information Processing Systems. 2018: 5197-5205.<br>【code:[HongyangGao/ChannelNets](https://github.com/HongyangGao/ChannelNets)】
+- 【thesis】[Algorithms for speeding up convolutional neural networks](https://www.skoltech.ru/app/data/uploads/2018/10/Thesis-Final.pdf)
+- 【Survey】Cheng Y, Wang D, Zhou P, et al. [Model compression and acceleration for deep neural networks: The principles, progress, and challenges](https://www.gwern.net/docs/ai/2018-cheng.pdf)[J]. IEEE Signal Processing Magazine, 2018, 35(1): 126-136.
 - 【Pruning】Tung F, Mori G. [Clip-q: Deep network compression learning by in-parallel pruning-quantization](http://www.sfu.ca/~ftung/papers/clipq_cvpr18.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 7873-7882.
 - 【Pruning】Carreira-Perpinán M A, Idelbayev Y. [“Learning-Compression” Algorithms for Neural Net Pruning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Carreira-Perpinan_Learning-Compression_Algorithms_for_CVPR_2018_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 8532-8541.
 - 【Pruning】Liu Z, Xu J, Peng X, et al. [Frequency-domain dynamic pruning for convolutional neural networks](https://papers.nips.cc/paper/7382-frequency-domain-dynamic-pruning-for-convolutional-neural-networks.pdf)[C]//Advances in Neural Information Processing Systems. 2018: 1043-1053.
@@ -345,7 +349,7 @@ also, some papers and links collected from below, they are all awesome resources
   J. Cheng, J. Wu, C. Leng, Y. Wang, and Q. Hu. [Quantized cnn: A unified approach to accelerate and compress convolutional networks]. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), PP:1–14. 
 - 【Pruning】Carreira-Perpinán, Miguel A., and Yerlan Idelbayev. [“Learning-Compression” Algorithms for Neural Net Pruning](http://faculty.ucmerced.edu/mcarreira-perpinan/papers/cvpr18.pdf) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
 - 【Pruning】He, Yihui, et al. [AMC: AutoML for model compression and acceleration on mobile devices](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf) Proceedings of the European Conference on Computer Vision (ECCV). 2018.
-- 【Structure】【MobileNetV2】Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen .[MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381) .[J] arXiv preprint arXiv:1801.04381
+- 【Structure】【MobileNetV2】Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen .[MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381) .[J] arXiv preprint arXiv:1801.04381<br>【code:[tensorflow/models](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet)】
 - Theodore S. Nowak, Jason J. Corso .[Deep Net Triage: Analyzing the Importance of Network Layers via  Structural Compression](https://arxiv.org/pdf/1801.04651) .[J] arXiv preprint arXiv:1801.04651.
 - Lucas Theis, Iryna Korshunova, Alykhan Tejani, Ferenc Huszár .[Faster gaze prediction with dense networks and Fisher pruning](https://arxiv.org/pdf/1801.05787) .[J] arXiv preprint arXiv:1801.05787.
 - Brian Trippe, Richard Turner .[Overpruning in Variational Bayesian Neural Networks](https://arxiv.org/pdf/1801.06230) .[J] arXiv preprint arXiv:1801.06230.
@@ -409,6 +413,7 @@ also, some papers and links collected from below, they are all awesome resources
 - Guanglu Song, Yu Liu, Ming Jiang, Yujie Wang, Junjie Yan, Biao Leng .[Beyond Trade-off: Accelerate FCN-based Face Detector with Higher  Accuracy](https://arxiv.org/pdf/1804.05197) .[J] arXiv preprint arXiv:1804.05197.
 - Cenk Baykal, Lucas Liebenwein, Igor Gilitschenski, Dan Feldman, Daniela Rus .[Data-Dependent Coresets for Compressing Neural Networks with  Applications to Generalization Bounds](https://arxiv.org/pdf/1804.05345) .[J] arXiv preprint arXiv:1804.05345.
 - Wenda Zhou, Victor Veitch, Morgane Austern, Ryan P. Adams, Peter Orbanz .[Compressibility and Generalization in Large-Scale Deep Learning](https://arxiv.org/pdf/1804.05862) .[J] arXiv preprint arXiv:1804.05862.
+- 【Structured】Xie G, Wang J, Zhang T, et al. [Interleaved structured sparse convolutional neural networks](https://arxiv.org/abs/1804.06202)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 8847-8856.
 - Xu J, Nie Y, Wang P, et al. [Training a Binary Weight Object Detector by Knowledge Transfer for Autonomous Driving](https://arxiv.org/pdf/1804.06332)[C]//2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019: 2379-2384.
 - Eunhyeok Park, Sungjoo Yoo, Peter Vajda .[Value-aware Quantization for Training and Inference of Neural Networks](https://arxiv.org/pdf/1804.07802) .[J] arXiv preprint arXiv:1804.07802.
 - Liyuan Liu, Xiang Ren, Jingbo Shang, Jian Peng, Jiawei Han .[Efficient Contextualized Representation: Language Model Pruning for  Sequence Labeling](https://arxiv.org/pdf/1804.07827) .[J] arXiv preprint arXiv:1804.07827.
@@ -455,6 +460,7 @@ also, some papers and links collected from below, they are all awesome resources
 - Kohei Yamamoto, Kurato Maeno .[PCAS: Pruning Channels with Attention Statistics](https://arxiv.org/pdf/1806.05382) .[J] arXiv preprint arXiv:1806.05382.
 - Mohsen Imani, Mohammad Samragh, Yeseong Kim, Saransh Gupta, Farinaz Koushanfar, Tajana Rosing .[RAPIDNN: In-Memory Deep Neural Network Acceleration Framework](https://arxiv.org/pdf/1806.05794) .[J] arXiv preprint arXiv:1806.05794.
 - 【Structure】Xingyu Liu, Jeff Pool, Song Han, William J. Dally .[Efficient Sparse-Winograd Convolutional Neural Networks](https://arxiv.org/pdf/1802.06367) .[J] arXiv preprint arXiv:1802.06367
+- 【Structure】Sun K, Li M, Liu D, et al. [Igcv3: Interleaved low-rank group convolutions for efficient deep neural networks](https://arxiv.org/abs/1806.00178)[J]. arXiv preprint arXiv:1806.00178, 2018.<br>【code:[homles11/IGCV3](https://github.com/homles11/IGCV3)】
 - Alireza Aghasi, Afshin Abdi, Justin Romberg .[Fast Convex Pruning of Deep Neural Networks](https://arxiv.org/pdf/1806.06457) .[J] arXiv preprint arXiv:1806.06457.
 - Maximilian Golub, Guy Lemieux, Mieszko Lis .[DropBack: Continuous Pruning During Training](https://arxiv.org/pdf/1806.06949) .[J] arXiv preprint arXiv:1806.06949.
 - Zhu S, Dong X, Su H. [Binary Ensemble Neural Network: More Bits per Network or More Networks per Bit?](https://arxiv.org/pdf/1806.07550.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 4923-4932.<br>【code:[XinDongol/BENN-PyTorch](https://github.com/XinDongol/BENN-PyTorch)】
@@ -479,8 +485,10 @@ also, some papers and links collected from below, they are all awesome resources
 - Jin Hee Kim, Brett Grady, Ruolong Lian, John Brothers, Jason H. Anderson .[FPGA-Based CNN Inference Accelerator Synthesized from Multi-Threaded C  Software](https://arxiv.org/pdf/1807.10695) .[J] arXiv preprint arXiv:1807.10695.
 - Ling Liang, Lei Deng, Yueling Zeng, Xing Hu, Yu Ji, Xin Ma, Guoqi Li, Yuan Xie .[Crossbar-aware neural network pruning](https://arxiv.org/pdf/1807.10816) .[J] arXiv preprint arXiv:1807.10816.
 - Tianyun Zhang, Kaiqi Zhang, Shaokai Ye, Jiayu Li, Jian Tang, Wujie Wen, Xue Lin, Makan Fardad, Yanzhi Wang .[ADAM-ADMM: A Unified, Systematic Framework of Structured Weight Pruning  for DNNs](https://arxiv.org/pdf/1807.11091) .[J] arXiv preprint arXiv:1807.11091.
+- 【Structure】Ma N, Zhang X, Zheng H T, et al. [Shufflenet v2: Practical guidelines for efficient cnn architecture design](https://arxiv.org/abs/1807.11164)[C]//Proceedings of the European Conference on Computer Vision (ECCV). 2018: 116-131.
+- 【Structure】Chen Y, Kalantidis Y, Li J, et al. [Multi-fiber networks for video recognition](https://arxiv.org/abs/1807.11195)[C]//Proceedings of the European Conference on Computer Vision (ECCV). 2018: 352-367.<br>【code:[cypw/PyTorch-MFNet](https://github.com/cypw/PyTorch-MFNet)】
 - 【Low rank】Bo Peng, Wenming Tan, Zheyang Li, Shun Zhang, Di Xie, Shiliang Pu .[Extreme Network Compression via Filter Group Approximation](https://arxiv.org/pdf/1807.11254) .[J] arXiv preprint arXiv:1807.11254.
-- 【Structure】Tan M, Chen B, Pang R, et al. [Mnasnet: Platform-aware neural architecture search for mobile](https://arxiv.org/pdf/1807.11626.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 2820-2828.
+- 【Structure】Tan M, Chen B, Pang R, et al. [Mnasnet: Platform-aware neural architecture search for mobile](https://arxiv.org/pdf/1807.11626.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 2820-2828.<br>【code:[tensorflow/tpu](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet)】
 - David M. Chan, Roshan Rao, Forrest Huang, John F. Canny .[t-SNE-CUDA: GPU-Accelerated t-SNE and its Applications to Modern Data](https://arxiv.org/pdf/1807.11824) .[J] arXiv preprint arXiv:1807.11824.
 - Ini Oguntola, Subby Olubeko, Christopher Sweeney .[SlimNets: An Exploration of Deep Model Compression and Acceleration](https://arxiv.org/pdf/1808.00496) .[J] arXiv preprint arXiv:1808.00496.
 - Zhanxuan Hu, Feiping Nie, Lai Tian, Rong Wang, Xuelong Li .[A Comprehensive Survey for Low Rank Regularization](https://arxiv.org/pdf/1808.04521) .[J] arXiv preprint arXiv:1808.04521.
@@ -620,7 +628,7 @@ also, some papers and links collected from below, they are all awesome resources
 
 
 ### 2019
-- 【Structured】【EfficientNet】Tan M, Le Q V. [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/pdf/1905.11946)[J]. arXiv preprint arXiv:1905.11946, 2019.
+- 【Structured】【EfficientNet】Tan M, Le Q V. [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/pdf/1905.11946)[J]. arXiv preprint arXiv:1905.11946, 2019.<br>【code:[tensorflow/tpu](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)】
 - 【Low rank】Chen T, Lin J, Lin T, et al. [Adaptive mixture of low-rank factorizations for compact neural modeling](https://openreview.net/pdf?id=r1xFE3Rqt7)[J]. 2018.<br>【code:[zuenko/ALRF](https://github.com/zuenko/ALRF)】
 - 【Pruning】Mehta D, Kim K I, Theobalt C. [On implicit filter level sparsity in convolutional neural networks](https://arxiv.org/abs/1811.12495)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 520-528.<br>【code:[mehtadushy/SelecSLS-Pytorch](https://github.com/mehtadushy/SelecSLS-Pytorch)】
 - 【Pruning】Peng H, Wu J, Chen S, et al. [Collaborative Channel Pruning for Deep Networks](http://proceedings.mlr.press/v97/peng19c/peng19c.pdf)[C]//International Conference on Machine Learning. 2019: 5113-5122.
@@ -938,6 +946,7 @@ also, some papers and links collected from below, they are all awesome resources
 - [pytorch/glow](https://github.com/pytorch/glow):&nbsp;&nbsp;Compiler for Neural Network hardware accelerators;
 - [NervanaSystems/neon](https://github.com/NervanaSystems/neon):&nbsp;&nbsp;Intel® Nervana™ reference deep learning framework committed to best performance on all hardware;
 - [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller):&nbsp;&nbsp;Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research;
+- [MUSCO](https://github.com/juliagusak/musco) - framework for model compression using tensor decompositions (PyTorch)
 - [OAID/Tengine](https://github.com/OAID/Tengine):&nbsp;&nbsp;Tengine is a lite, high performance, modular inference engine for embedded device;
 - [fpeder/espresso](https://github.com/fpeder/espresso):&nbsp;&nbsp;Efficient forward propagation for BCNNs;
 - [Tensorflow lite](https://tensorflow.google.cn/lite):&nbsp;&nbsp;TensorFlow Lite is an open source deep learning framework for on-device inference.;&nbsp;&nbsp;
@@ -947,6 +956,9 @@ also, some papers and links collected from below, they are all awesome resources
 - [mxnet/quantization](https://github.com/apache/incubator-mxnet/tree/master/example/quantization):&nbsp;&nbsp;This folder contains examples of quantizing a FP32 model with Intel® MKL-DNN or CUDNN.
 - [TensoRT4-Example](https://github.com/YunYang1994/TensoRT4-Example):&nbsp;&nbsp;
 - [NAF-tensorflow](https://github.com/carpedm20/NAF-tensorflow):&nbsp;&nbsp;"Continuous Deep Q-Learning with Model-based Acceleration" in TensorFlow;
+- [Mayo](https://github.com/deep-fry/mayo) - deep learning framework with fine- and coarse-grained pruning, network slimming, and quantization methods
+- [Keras compressor](https://github.com/DwangoMediaVillage/keras_compressor) - compression using low-rank approximations, SVD for matrices, Tucker for tensors.
+- [Caffe compressor](https://github.com/yuanyuanli85/CaffeModelCompression) K-means based quantization
 
 
 ---
