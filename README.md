@@ -30,7 +30,7 @@ also, some papers and links collected from below, they are all awesome resources
 - [x][papers&codes][AojunZhou/Efficient-Deep-Learning](https://github.com/AojunZhou/Efficient-Deep-Learning)
 - [intro&papers&codes&blogs][Ewenwan/MVision/CNN/Deep_Compression](https://github.com/Ewenwan/MVision/tree/master/CNN/Deep_Compression)
 - [intro&blogs][Ewenwan/MVision/quantization](https://github.com/Ewenwan/MVision/tree/master/CNN/Deep_Compression/quantization)
-- [intro&zhihu][jyhengcoder/Model-Compression](https://github.com/jyhengcoder/Model-Compression)
+- [intro&zhihu&papers][jyhengcoder/Model-Compression](https://github.com/jyhengcoder/Model-Compression)
 - [/][intro&papers][mapleam/model-compression-and-acceleration-4-DNN](https://github.com/mapleam/model-compression-and-acceleration-4-DNN)
 - [x][little papers][tejalal/awesome-deep-model-compression](https://github.com/tejalal/awesome-deep-model-compression)
 - [x][papers&2years ago][Xreki/ModelCompression](https://github.com/Xreki/ModelCompression/tree/master/papers)
