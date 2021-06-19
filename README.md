@@ -1001,6 +1001,7 @@ also, some papers and links collected from below, they are all awesome resources
 - Jiao Xie, Shaohui Lin, Yichen Zhang, Linkai Luo .[Training convolutional neural networks with cheap convolutions and online distillation](https://arxiv.org/pdf/1909.13063) .[J] arXiv preprint arXiv:1909.13063.<br>【code:[EthanZhangYC/OD-cheap-convolution](https://github.com/EthanZhangYC/OD-cheap-convolution)】
 - Yuhang Li, Xin Dong, Wei Wang .[Additive Powers-of-Two Quantization: A Non-uniform Discretization for Neural Networks](https://arxiv.org/pdf/1909.13144) .[J] arXiv preprint arXiv:1909.13144.
 - Caiwen Ding, Shuo Wang, Ning Liu, Kaidi Xu, Yanzhi Wang, Yun Liang .[REQ-YOLO: A Resource-Aware, Efficient Quantization Framework for Object Detection on FPGAs](https://arxiv.org/pdf/1909.13396) .[J] arXiv preprint arXiv:1909.13396.
+- Gaurav Menghani. [Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better](https://arxiv.org/abs/2106.08962). arXiv preprint arXiv:2106.08962.
 
 
 ---
