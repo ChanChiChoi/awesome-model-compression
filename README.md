@@ -1067,6 +1067,7 @@ some papers and links collected from below, they are all awesome resources:
 - [][github topics][topics/knowledge-distilliation](https://github.com/topics/knowledge-distillation)
 - [][github topics][topics/distilliation](https://github.com/topics/distillation)
 - [][github topics][topics/efficient-model](https://github.com/topics/efficient-model)
+- [][google search][transformer compression](https://www.google.com/search?q=transformer+commpression)
 
 
 keyword：compress; prun; accelera; distill; binarization; "low rank"; quantization; "efficient comput";
