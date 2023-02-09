@@ -48,7 +48,7 @@ also, some papers and links collected from below, they are all awesome resources
 
 ---
 ## PAPERS
----
+
 ### 1990
 - 【Pruning】 LeCun Y, Denker J S, Solla S A. [Optimal brain damage](http://papers.nips.cc/paper/250-optimal-brain-damage.pdf) .[C]//Advances in neural information processing systems. 1990: 598-605.
 - 【Distillation】[Neural Network Ensembles](https://www.researchgate.net/publication/3191841_Neural_Network_Ensembles), L.K. Hansen, P. Salamon, 1990
@@ -1056,4 +1056,6 @@ also, some papers and links collected from below, they are all awesome resources
 ---
 ## OTHERS
 - [bhavanajain/research-paper-summaries](https://github.com/bhavanajain/research-paper-summaries)  
-keyword：compress prun accelera distill binarization 'low rank' quantization
+
+
+keyword：compress; prun; accelera; distill; binarization; "low rank"; quantization; "efficient comput";
