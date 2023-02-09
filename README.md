@@ -1071,3 +1071,4 @@ some papers and links collected from below, they are all awesome resources:
 
 
 keyword：compress; prun; accelera; distill; binarization; "low rank"; quantization; "efficient comput";
+NLP大模型压缩加速:蒸馏；量化；低秩分解；剪枝；权重层共享(参数共享)；算子融合；检索增强；存储外挂；MoE；自适应深度解码；分支预测(跳过某些后续层)
