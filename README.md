@@ -35,6 +35,17 @@ also, some papers and links collected from below, they are all awesome resources
 - [x][papers&2years ago][Xreki/ModelCompression](https://github.com/Xreki/ModelCompression/tree/master/papers)
 - [x][Ref][clhne/model-compression-and-acceleration](https://github.com/clhne/model-compression-and-acceleration)
 
+
+---
+[PAPERS]()
+[BOOKS]()
+[BLOGS&ATRICLES]()
+[LIBRARIES]()
+[PROJECTS]()
+[OTHERS]()
+
+---
+## PAPERS
 ---
 ### 1990
 - 【Pruning】 LeCun Y, Denker J S, Solla S A. [Optimal brain damage](http://papers.nips.cc/paper/250-optimal-brain-damage.pdf) .[C]//Advances in neural information processing systems. 1990: 598-605.
