@@ -1016,7 +1016,19 @@ also, some papers and links collected from below, they are all awesome resources
 
 
 ---
-### Projects
+### BOOKS
+
+
+---
+### BLOGS & ATRICLES
+
+
+---
+### LIBRARIES
+
+
+---
+### PROJECTS
      
 - [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt):&nbsp;&nbsp;Programmable Inference Accelerator;&nbsp;&nbsp;
 - [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow):&nbsp;&nbsp;An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications;
@@ -1041,6 +1053,6 @@ also, some papers and links collected from below, they are all awesome resources
 
 
 ---
-### others
+### OTHERS
 - [bhavanajain/research-paper-summaries](https://github.com/bhavanajain/research-paper-summaries)  
 keyword：compress prun accelera distill binarization 'low rank' quantization
