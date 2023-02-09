@@ -38,9 +38,10 @@ also, some papers and links collected from below, they are all awesome resources
 
 
 ---
+# CONTENT
 [PAPERS](https://github.com/ChanChiChoi/awesome-model-compression#papers)  
 [BOOKS](https://github.com/ChanChiChoi/awesome-model-compression#books)  
-[BLOGS&ATRICLES](https://github.com/ChanChiChoi/awesome-model-compression#blog)  
+[BLOGS&ATRICLES](https://github.com/ChanChiChoi/awesome-model-compression#blogs--atricles)  
 [LIBRARIES](https://github.com/ChanChiChoi/awesome-model-compression#libraries)  
 [PROJECTS](https://github.com/ChanChiChoi/awesome-model-compression#projects)  
 [OTHERS](https://github.com/ChanChiChoi/awesome-model-compression#others)  
@@ -1016,19 +1017,19 @@ also, some papers and links collected from below, they are all awesome resources
 
 
 ---
-### BOOKS
+## BOOKS
 
 
 ---
-### BLOGS & ATRICLES
+## BLOGS & ATRICLES
 
 
 ---
-### LIBRARIES
+## LIBRARIES
 
 
 ---
-### PROJECTS
+## PROJECTS
      
 - [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt):&nbsp;&nbsp;Programmable Inference Accelerator;&nbsp;&nbsp;
 - [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow):&nbsp;&nbsp;An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications;
@@ -1053,6 +1054,6 @@ also, some papers and links collected from below, they are all awesome resources
 
 
 ---
-### OTHERS
+## OTHERS
 - [bhavanajain/research-paper-summaries](https://github.com/bhavanajain/research-paper-summaries)  
 keyword：compress prun accelera distill binarization 'low rank' quantization
