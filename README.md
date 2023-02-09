@@ -38,12 +38,12 @@ also, some papers and links collected from below, they are all awesome resources
 
 
 ---
-[PAPERS]()
-[BOOKS]()
-[BLOGS&ATRICLES]()
-[LIBRARIES]()
-[PROJECTS]()
-[OTHERS]()
+[PAPERS](https://github.com/ChanChiChoi/awesome-model-compression#papers)  
+[BOOKS](https://github.com/ChanChiChoi/awesome-model-compression#books)  
+[BLOGS&ATRICLES](https://github.com/ChanChiChoi/awesome-model-compression#blog)  
+[LIBRARIES](https://github.com/ChanChiChoi/awesome-model-compression#libraries)  
+[PROJECTS](https://github.com/ChanChiChoi/awesome-model-compression#projects)  
+[OTHERS](https://github.com/ChanChiChoi/awesome-model-compression#others)  
 
 ---
 ## PAPERS
