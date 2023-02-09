@@ -9,34 +9,6 @@ this collecting the papers (main from arxiv.org) about Model compression:
 **Pruning**;   
 **Low Rank**.  
 
-also, some papers and links collected from below, they are all awesome resources:  
-- [x][papers][sun254/awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
-- [x][papers&projects][dkozlov/awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
-- [x][papers&reading listi&blogs][memoiry/Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
-- [x][papers][chester256/Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers)
-- [x][papers&blogs][cedrickchee/awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression)
-- [x][papers][jnjaby/Model-Compression-Acceleration](https://github.com/jnjaby/Model-Compression-Acceleration)
-- [x][papers&codes][htqin/model-quantization](https://github.com/htqin/model-quantization)
-- [x][papers][mrgloom/Network-Speed-and-Compression](https://github.com/mrgloom/Network-Speed-and-Compression)
-- [others&papers&codes&projects&blogs][guan-yuan/awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
-- [papers&codes&projects&blogs][handong1587/cnn-compression-acceleration](https://handong1587.github.io/deep_learning/2015/10/09/cnn-compression-acceleration.html)
-- [papers&hardware][ZhishengWang/Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
-- [papers&hardware][fengbintu/Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
-- [others&papers][ljk628/ML-Systems](https://github.com/ljk628/ML-Systems)
-- [x][papers&codes][juliagusak/model-compression-and-acceleration-progress](https://github.com/juliagusak/model-compression-and-acceleration-progress)
-- [x][papers&codes][Hyungjun-K1m/Neural-Network-Compression](https://github.com/Hyungjun-K1m/Neural-Network-Compression)
-- [x][papers&codes][he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
-- [x][papers][lhyfst/knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers)
-- [x][papers&codes][AojunZhou/Efficient-Deep-Learning](https://github.com/AojunZhou/Efficient-Deep-Learning)
-- [intro&papers&projects][Tianyu-Hua/ModelCompression](https://github.com/Tianyu-Hua/ModelCompression)
-- [intro&papers&codes&blogs][Ewenwan/MVision/CNN/Deep_Compression](https://github.com/Ewenwan/MVision/tree/master/CNN/Deep_Compression)
-- [intro&zhihu&papers][jyhengcoder/Model-Compression](https://github.com/jyhengcoder/Model-Compression)
-- [/][intro&papers][mapleam/model-compression-and-acceleration-4-DNN](https://github.com/mapleam/model-compression-and-acceleration-4-DNN)
-- [x][little papers][tejalal/awesome-deep-model-compression](https://github.com/tejalal/awesome-deep-model-compression)
-- [x][papers&2years ago][Xreki/ModelCompression](https://github.com/Xreki/ModelCompression/tree/master/papers)
-- [x][Ref][clhne/model-compression-and-acceleration](https://github.com/clhne/model-compression-and-acceleration)
-
-
 ---
 # CONTENT
 [PAPERS](https://github.com/ChanChiChoi/awesome-model-compression#papers)  
@@ -45,6 +17,7 @@ also, some papers and links collected from below, they are all awesome resources
 [LIBRARIES](https://github.com/ChanChiChoi/awesome-model-compression#libraries)  
 [PROJECTS](https://github.com/ChanChiChoi/awesome-model-compression#projects)  
 [OTHERS](https://github.com/ChanChiChoi/awesome-model-compression#others)  
+[REFERENCE](https://github.com/ChanChiChoi/awesome-model-compression#REFERENCE)  
 
 ---
 ## PAPERS
@@ -1057,6 +1030,43 @@ also, some papers and links collected from below, they are all awesome resources
 ---
 ## OTHERS
 - [bhavanajain/research-paper-summaries](https://github.com/bhavanajain/research-paper-summaries)  
+
+
+---
+## REFERENCE
+some papers and links collected from below, they are all awesome resources:  
+- [x][papers][sun254/awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
+- [x][papers&projects][dkozlov/awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
+- [x][papers&reading listi&blogs][memoiry/Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
+- [x][papers][chester256/Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers)
+- [x][papers&blogs][cedrickchee/awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression)
+- [x][papers][jnjaby/Model-Compression-Acceleration](https://github.com/jnjaby/Model-Compression-Acceleration)
+- [x][papers&codes][htqin/model-quantization](https://github.com/htqin/model-quantization)
+- [x][papers][mrgloom/Network-Speed-and-Compression](https://github.com/mrgloom/Network-Speed-and-Compression)
+- [others&papers&codes&projects&blogs][guan-yuan/awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
+- [papers&codes&projects&blogs][handong1587/cnn-compression-acceleration](https://handong1587.github.io/deep_learning/2015/10/09/cnn-compression-acceleration.html)
+- [papers&hardware][ZhishengWang/Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
+- [papers&hardware][fengbintu/Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
+- [others&papers][ljk628/ML-Systems](https://github.com/ljk628/ML-Systems)
+- [x][papers&codes][juliagusak/model-compression-and-acceleration-progress](https://github.com/juliagusak/model-compression-and-acceleration-progress)
+- [x][papers&codes][Hyungjun-K1m/Neural-Network-Compression](https://github.com/Hyungjun-K1m/Neural-Network-Compression)
+- [x][papers&codes][he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
+- [x][papers][lhyfst/knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers)
+- [x][papers&codes][AojunZhou/Efficient-Deep-Learning](https://github.com/AojunZhou/Efficient-Deep-Learning)
+- [intro&papers&projects][Tianyu-Hua/ModelCompression](https://github.com/Tianyu-Hua/ModelCompression)
+- [intro&papers&codes&blogs][Ewenwan/MVision/CNN/Deep_Compression](https://github.com/Ewenwan/MVision/tree/master/CNN/Deep_Compression)
+- [intro&zhihu&papers][jyhengcoder/Model-Compression](https://github.com/jyhengcoder/Model-Compression)
+- [/][intro&papers][mapleam/model-compression-and-acceleration-4-DNN](https://github.com/mapleam/model-compression-and-acceleration-4-DNN)
+- [x][little papers][tejalal/awesome-deep-model-compression](https://github.com/tejalal/awesome-deep-model-compression)
+- [x][papers&2years ago][Xreki/ModelCompression](https://github.com/Xreki/ModelCompression/tree/master/papers)
+- [x][Ref][clhne/model-compression-and-acceleration](https://github.com/clhne/model-compression-and-acceleration)
+- [][github topics][topics/model-compression](https://github.com/topics/model-compression)
+- [][github topics][topics/pruning](https://github.com/topics/pruning)
+- [][github topics][topics/channel-pruning](https://github.com/topics/channel-pruning)
+- [][github topics][topics/quantization](https://github.com/topics/quantization)
+- [][github topics][topics/knowledge-distilliation](https://github.com/topics/knowledge-distillation)
+- [][github topics][topics/distilliation](https://github.com/topics/distillation)
+- [][github topics][topics/efficient-model](https://github.com/topics/efficient-model)
 
 
 keyword：compress; prun; accelera; distill; binarization; "low rank"; quantization; "efficient comput";
