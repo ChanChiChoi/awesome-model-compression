@@ -1027,14 +1027,15 @@ also, some papers and links collected from below, they are all awesome resources
 ---
 ## LIBRARIES
 
-
----
-## PROJECTS
-     
 - [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt):&nbsp;&nbsp;Programmable Inference Accelerator;&nbsp;&nbsp;
 - [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow):&nbsp;&nbsp;An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications;
 - [dmlc/tvm](https://github.com/dmlc/tvm):&nbsp;&nbsp;Open deep learning compiler stack for cpu, gpu and specialized accelerators;
 - [Tencent/ncnn](https://github.com/Tencent/ncnn):&nbsp;&nbsp;ncnn is a high-performance neural network inference framework optimized for the mobile platform;
+
+
+---
+## PROJECTS
+     
 - [pytorch/glow](https://github.com/pytorch/glow):&nbsp;&nbsp;Compiler for Neural Network hardware accelerators;
 - [NervanaSystems/neon](https://github.com/NervanaSystems/neon):&nbsp;&nbsp;Intel® Nervana™ reference deep learning framework committed to best performance on all hardware;
 - [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller):&nbsp;&nbsp;Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research;
