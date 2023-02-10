@@ -988,6 +988,17 @@ this collecting the papers (main from arxiv.org) about Model compression:
 - Yuhang Li, Xin Dong, Wei Wang .[Additive Powers-of-Two Quantization: A Non-uniform Discretization for Neural Networks](https://arxiv.org/pdf/1909.13144) .[J] arXiv preprint arXiv:1909.13144.
 - Caiwen Ding, Shuo Wang, Ning Liu, Kaidi Xu, Yanzhi Wang, Yun Liang .[REQ-YOLO: A Resource-Aware, Efficient Quantization Framework for Object Detection on FPGAs](https://arxiv.org/pdf/1909.13396) .[J] arXiv preprint arXiv:1909.13396.
 
+### 2020
+
+
+### 2021
+
+
+### 2022
+
+
+### 2023
+
 
 ---
 ## BOOKS
@@ -995,7 +1006,8 @@ this collecting the papers (main from arxiv.org) about Model compression:
 
 ---
 ## BLOGS & ATRICLES
-
+- [All The Ways You Can Compress Transformers](https://www.kaggle.com/code/rhtsingh/all-the-ways-you-can-compress-transformers)
+- [Hardware-Efficient Automatic Tensor Decomposition for Transformer Compression](https://research.nvidia.com/publication/2022-12_heat-hardware-efficient-automatic-tensor-decomposition-transformer-compression)
 
 ---
 ## LIBRARIES
@@ -1071,4 +1083,10 @@ some papers and links collected from below, they are all awesome resources:
 
 
 keyword：compress; prun; accelera; distill; binarization; "low rank"; quantization; "efficient comput";  
-NLP大模型压缩加速:蒸馏；量化；低秩分解；剪枝；权重层共享(参数共享)；算子融合；检索增强；存储外挂；MoE；自适应深度解码；分支预测(跳过某些后续层)
+NLP大模型压缩加速:蒸馏；量化；低秩分解；剪枝；权重层共享(参数共享)；算子融合；检索增强；存储外挂；MoE；自适应深度解码；
+```
+grep -i -f key.txt arxiv-20* >compress20.txt
+grep -i -f whitekey_limit.txt compress20.txt > compress_good.txt
+grep -i -v -f blackkey.txt compress_good.txt > compress_good_bad.txt
+
+```
