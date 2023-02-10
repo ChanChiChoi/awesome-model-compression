@@ -1011,7 +1011,7 @@ this collecting the papers (main from arxiv.org) about Model compression:
 
 ---
 ## LIBRARIES
-
+- [OpenBMB/BMCook](https://github.com/OpenBMB/BMCook):Model Compression for Big Models  
 - [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt):&nbsp;&nbsp;Programmable Inference Accelerator;&nbsp;&nbsp;
 - [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow):&nbsp;&nbsp;An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications;
 - [dmlc/tvm](https://github.com/dmlc/tvm):&nbsp;&nbsp;Open deep learning compiler stack for cpu, gpu and specialized accelerators;
